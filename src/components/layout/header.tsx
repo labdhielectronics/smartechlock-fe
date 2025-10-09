@@ -1,6 +1,8 @@
 'use client'
 
+import Image from 'next/image'
 import { useState } from 'react'
+import Img from '../img/img'
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -47,9 +49,9 @@ export default function Header() {
           <div className="container-fluid">
             <div className="row align-items-center">
               <div className="col-xl-2 col-lg-6 col-md-5 col-7">
-                <div className="logo">
+                <div className="logo !w-[155px] !h-[50px]">
                   <a href="index.html">
-                    <img src="assets/img/logo/logo-3.png" alt="logo" />
+                    <Img src="/assets/img/logo/logo-3.png" title="logo" />
                   </a>
                 </div>
               </div>
@@ -144,9 +146,9 @@ export default function Header() {
   <button className="sidebar-close">
     <i className="fal fa-times" />
   </button>
-  <div className="side-logo mb-20">
-    <a href="index.html">
-      <img src="assets/img/logo/logo.png" alt="logo" />
+  <div className="side-logo mb-20 !w-[218px] !h-[71px]">
+    <a href="index.html " >
+      <Img src="/assets/img/logo/logo.png" title="logo"  />
     </a>
   </div>
   <div className="mobile-menu mean-container">

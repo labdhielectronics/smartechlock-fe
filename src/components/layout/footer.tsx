@@ -1,4 +1,6 @@
+import Image from 'next/image'
 import React from 'react'
+import Img from '../img/img'
 
 function Footer() {
   return (
@@ -11,8 +13,9 @@ function Footer() {
         <div className="col-lg-4 col-md-4 col-12 text-center text-lg-start">
           <div className="tp-footer-logo">
             <a href="#">
-              {" "}
-              <img src="assets/img/logo/logo-3.png" alt="theme-pure" />
+            <div className='!w-[155px] !h-[50px] m-auto'>
+              <Img src="/assets/img/logo/logo-3.png" title="theme-pure" />
+              </div>
             </a>
           </div>
         </div>
