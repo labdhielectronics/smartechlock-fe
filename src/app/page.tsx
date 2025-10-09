@@ -1,4 +1,8 @@
+
+import About from "@/components/about/about";
 import Carousel from "@/components/carousel/carousel";
+import Service from "@/components/service/service";
+import Testimonial from "@/components/testimonial/testimonial";
 import Image from "next/image";
 
 export default function Home() {
@@ -104,6 +108,9 @@ export default function Home() {
 <div>
 
   <Carousel />
+  <About />
+  <Service/>
+  <Testimonial />
 </div>
 
 
