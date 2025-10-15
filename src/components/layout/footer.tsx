@@ -14,7 +14,7 @@ function Footer() {
           <div className="tp-footer-logo">
             <a href="#">
             <div className='!w-[155px] !h-[50px] m-auto'>
-              <Img src="/assets/img/logo/logo-3.png" title="theme-pure" />
+              <Img src="/assets/img/logo/st.png" title="theme-pure" />
               </div>
             </a>
           </div>

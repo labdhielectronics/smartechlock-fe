@@ -51,7 +51,7 @@ export default function Header() {
               <div className="col-xl-2 col-lg-6 col-md-5 col-7">
                 <div className="logo !w-[155px] !h-[50px]">
                   <a href="index.html">
-                    <Img src="/assets/img/logo/logo-3.png" title="logo" />
+                    <Img src="/assets/img/logo/st.png" title="logo" />
                   </a>
                 </div>
               </div>
