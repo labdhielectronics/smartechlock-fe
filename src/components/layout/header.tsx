@@ -60,44 +60,44 @@ export default function Header() {
                 <div className="tp-main-menu text-center">
                   <nav id="mobile-menu">
                     <ul>
-                      <li className="has-dropdown">
-                        <a href="index.html">Home</a>
-                        <ul className="submenu">
+                      <li >
+                        <a href="/">Home</a>
+                        {/* <ul className="submenu">
                           <li><a href="index.html">Home Style 01</a></li>
                           <li><a href="home-2">Home Style 02</a></li>
                           <li><a href="home-3">Home Style 03</a></li>
-                        </ul>
+                        </ul> */}
                       </li>
                       <li><a href="about">About</a></li>
                       <li className="has-dropdown">
-                        <a href="service">Service</a>
-                        <ul className="submenu">
-                          <li><a href="service">Service</a></li>
+                        <a href="technical-services">Service</a>
+                        {/* <ul className="submenu">
+                          <li><a href="technical-services">Service</a></li>
                           <li><a href="service-details">Service Details</a></li>
-                        </ul>
+                        </ul> */}
                       </li>
                       <li className="has-dropdown">
                         <a href="team">Pages</a>
                         <ul className="submenu">
-                          <li><a href="team">Team</a></li>
+                          {/* <li><a href="team">Team</a></li>
                           <li><a href="team-details">Team Details</a></li>
                           <li><a href="portfolio">Portfolio</a></li>
-                          <li><a href="portfolio-details">Portfolio Details</a></li>
-                          <li><a href="faq">FAQ Page</a></li>
-                          <li><a href="shop">Shop</a></li>
-                          <li><a href="shop-details">Shop Details</a></li>
-                          <li><a href="cart">Cart</a></li>
+                          <li><a href="portfolio-details">Portfolio Details</a></li> */}
+                          <li><a href="FAQ">FAQ Page</a></li>
+                          <li><a href="product">Product</a></li>
+                          <li><a href="product-details">Product Details</a></li>
+                          {/* <li><a href="cart">Cart</a></li>
                           <li><a href="checkout">Checkout</a></li>
-                          <li><a href="#">404</a></li>
+                          <li><a href="#">404</a></li> */}
                         </ul>
                       </li>
-                      <li className="has-dropdown">
+                      {/* <li className="has-dropdown">
                         <a href="blog">Blog</a>
                         <ul className="submenu">
                           <li><a href="blog">Blog</a></li>
                           <li><a href="blog-details">Blog Details</a></li>
                         </ul>
-                      </li>
+                      </li> */}
                       <li><a href="contact">Contact</a></li>
                     </ul>
                   </nav>

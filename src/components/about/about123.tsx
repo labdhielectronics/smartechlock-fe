@@ -4,7 +4,7 @@ import Img from "../img/img";
 
 
 
-export default function About() {
+export default function About123() {
  
   return (
    
