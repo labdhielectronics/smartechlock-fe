@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Img from "./img/img";
+import Img from "../img/img";
 
 
 type TabKey = "camera" | "cctv" | "security" | "cyber";

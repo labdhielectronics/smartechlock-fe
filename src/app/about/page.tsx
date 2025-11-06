@@ -1,3 +1,4 @@
+import Header from "@/components/home/header"
 import About from "@/components/home/about"
 import Services from "@/components/home/services"
 import Testimonials from "@/components/home/testimonials"
@@ -10,15 +11,16 @@ import Video from "@/components/home/video"
 import Blog from "@/components/home/blog"
 import Carousel from "@/components/home/carousel"
 
-export default function Home() {
+export default function page() {
   return (
     <>
+      {/* <Header /> */}
       <Carousel />
       <About />
       <Services />
       <Testimonials />
       <Features />
-      <Process /> 
+      <Process />
       <Products />
       <FAQ />
       <Quote />
