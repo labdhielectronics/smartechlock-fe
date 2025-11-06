@@ -1,28 +1,5 @@
-import { Quote } from "lucide-react"
 
-const testimonials = [
-  {
-    id: 1,
-    text: "The circuit television, also known as video surveillance is the use of video CCTV",
-    author: "Humble Dowson",
-    position: "Head Of Idea",
-    image: "/testimonial-person.jpg",
-  },
-  {
-    id: 2,
-    text: "CCTV stands for Closed Circuit Television. It is a video system",
-    author: "Limbon Nelson",
-    position: "Founder, Romdon Co.",
-    image: "/testimonial-person.jpg",
-  },
-  {
-    id: 3,
-    text: "That consists strategically placed video CCTV around an area that records",
-    author: "Jiksonax Xioma",
-    position: "CEO, Jikson Ltd.",
-    image: "/testimonial-person.jpg",
-  },
-]
+
 
 export default function Testimonials() {
   return (

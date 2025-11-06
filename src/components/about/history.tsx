@@ -1,23 +1,5 @@
-import Link from "next/link"
-import { ArrowRight } from "lucide-react"
+"use client"
 
-const timelineItems = [
-  {
-    year: "2000",
-    title: "Journey Was Started",
-    description: "We believe the value that our functions add to a business with right root.",
-  },
-  {
-    year: "2010",
-    title: "Noman Design Award 2010",
-    description: "We believe the value that our functions add to a business with right root.",
-  },
-  {
-    year: "2023",
-    title: "Best Agency In World 2023",
-    description: "We believe the value that our functions add to a business with right root.",
-  },
-]
 
 export default function History() {
   return (

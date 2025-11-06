@@ -1,6 +1,6 @@
 "use client"
 
-import { Play } from "lucide-react"
+
 
 export default function Video() {
   return (

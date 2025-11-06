@@ -1,48 +1,10 @@
 "use client";
 
-import { useState } from "react";
-import Img from "../img/img";
 
-type TabKey = "camera" | "cctv" | "security" | "cyber";
 
-interface TabContent {
-  img: string;
-  price: number;
-  title: string;
-}
 
 export default function Products() {
-  const [activeTab, setActiveTab] = useState<TabKey>("camera");
-
-  const tabs = [
-    { id: "camera", label: "IP Camera" },
-    { id: "cctv", label: "IP CCTV" },
-    { id: "security", label: "Duet Security" },
-    { id: "cyber", label: "Cyber Security" },
-  ];
-
-  const tabContent: Record<TabKey, TabContent> = {
-    camera: {
-      img: "/assets/img/services/sv-7.jpg",
-      price: 591,
-      title: "Individual CCTV Solution",
-    },
-    cctv: {
-      img: "/assets/img/services/sv-8.jpg",
-      price: 35,
-      title: "Commercial CCTV System",
-    },
-    security: {
-      img: "/assets/img/services/sv-9.jpg",
-      price: 45,
-      title: "Office & Industrial Security",
-    },
-    cyber: {
-      img: "/assets/img/services/sv-10.jpg",
-      price: 42,
-      title: "School & Hospital Security",
-    },
-  };
+ 
 
   return (
   <section className="product__area pt-120 pb-100">

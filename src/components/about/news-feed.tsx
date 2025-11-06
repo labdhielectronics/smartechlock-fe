@@ -1,29 +1,4 @@
-import Link from "next/link"
-import { ArrowRight } from "lucide-react"
 
-const newsItems = [
-  {
-    date: "24",
-    month: "June",
-    image: "/blog-post-1.png",
-    title: "Good name can make your company sound professional",
-    category: "cctv, security",
-  },
-  {
-    date: "25",
-    month: "June",
-    image: "/blog-post-2.png",
-    title: "While a bad name will give potential customers the wrong impression.",
-    category: "cctv, security",
-  },
-  {
-    date: "26",
-    month: "June",
-    image: "/blog-post-3.png",
-    title: "A CCTV business name is one of the most important decisions",
-    category: "cctv, security",
-  },
-]
 
 export default function NewsFeed() {
   return (

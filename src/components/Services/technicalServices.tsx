@@ -1,27 +1,4 @@
-import { Lock, Camera, Settings, Star } from "lucide-react"
 
-const services = [
-  {
-    icon: Lock,
-    title: "Smart Systems",
-    description: "We believe the value that our functions add to a business.",
-  },
-  {
-    icon: Camera,
-    title: "Video Intercoms",
-    description: "We believe the value that our functions add to a business.",
-  },
-  {
-    icon: Settings,
-    title: "Smart Systems",
-    description: "We believe the value that our functions add to a business.",
-  },
-  {
-    icon: Star,
-    title: "Camcorders Kits",
-    description: "We believe the value that our functions add to a business.",
-  },
-]
 
 export default function TechnicalServices() {
   return (

@@ -1,12 +1,3 @@
-import { Star, ShoppingCart } from "lucide-react"
-import Link from "next/link"
-
-const products = [
-  { title: "Logitech 56V Web Cam Pro", price: 39, image: "/logitech-camera.jpg" },
-  { title: "Fighter Technology Cameras", price: 49, image: "/fighter-camera.jpg" },
-  { title: "Tilt & Zoom Camera", price: 29, image: "/tilt-zoom-camera.jpg" },
-  { title: "External Dome Camera", price: 19, image: "/dome-camera.jpg" },
-]
 
 export default function Products() {
   return (

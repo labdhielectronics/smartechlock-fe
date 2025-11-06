@@ -1,12 +1,4 @@
-import { Camera, Shield, Globe, Database } from "lucide-react"
-import Link from "next/link"
 
-const features = [
-  { icon: Camera, title: "Full-Time Device Protection" },
-  { icon: Shield, title: "Live Footage Collection" },
-  { icon: Globe, title: "Drone CCTV Discussion" },
-  { icon: Database, title: "Hacker & Custom Solution" },
-]
 
 export default function Features() {
   return (

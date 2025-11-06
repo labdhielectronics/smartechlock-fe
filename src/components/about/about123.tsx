@@ -1,6 +1,6 @@
 "use client";
 
-import Img from "../img/img";
+// import Img from "../img/img";
 
 
 

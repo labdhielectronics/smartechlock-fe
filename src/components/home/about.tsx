@@ -1,5 +1,4 @@
-import Link from "next/link"
-import { CheckCircle } from "lucide-react"
+
 
 export default function About() {
   return (

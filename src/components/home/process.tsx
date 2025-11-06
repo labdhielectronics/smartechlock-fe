@@ -1,14 +1,4 @@
-import { Cloud, Camera, Settings, CheckCircle, Server, Plane } from "lucide-react"
-import Link from "next/link"
 
-const processes = [
-  { icon: Cloud, title: "Drone CCTV Discussion" },
-  { icon: Camera, title: "Live Footage Collection" },
-  { icon: Settings, title: "Monitor From Anywhere" },
-  { icon: CheckCircle, title: "Hacker & Custom Solution" },
-  { icon: Server, title: "Desk & HDD Solution" },
-  { icon: Plane, title: "Flight Mode Activated" },
-]
 
 export default function Process() {
   return (

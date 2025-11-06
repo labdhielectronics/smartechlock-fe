@@ -1,5 +1,4 @@
-import { User, MessageCircle, ArrowRight } from "lucide-react"
-import Link from "next/link"
+
 
 
 export default function Contact() {

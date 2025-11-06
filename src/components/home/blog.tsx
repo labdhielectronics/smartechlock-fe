@@ -1,32 +1,4 @@
-import { User, MessageCircle, ArrowRight } from "lucide-react"
-import Link from "next/link"
 
-const blogPosts = [
-  {
-    title: "Good name can make your company sound?",
-    author: "Alex Dowson",
-    comments: 23,
-    image: "/blog-image-1.jpg",
-    excerpt:
-      "CCTV stands for Closed Circuit Television. It is a video system that consists of strategically placed video cameras.",
-  },
-  {
-    title: "While a bad name will give potential customers?",
-    author: "Dowson Alex",
-    comments: 23,
-    image: "/blog-image-2.jpg",
-    excerpt:
-      "CCTV stands for Closed Circuit Television. It is a video system that consists of strategically placed video cameras.",
-  },
-  {
-    title: "Why should business payroll outsourcing?",
-    author: "Alex Dowson",
-    comments: 23,
-    image: "/blog-image-3.jpg",
-    excerpt:
-      "CCTV stands for Closed Circuit Television. It is a video system that consists of strategically placed video cameras.",
-  },
-]
 
 export default function Blog() {
   return (

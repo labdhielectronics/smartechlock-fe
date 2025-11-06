@@ -1,7 +1,6 @@
 "use client"
 
 import { useState } from "react"
-import { ChevronLeft, ChevronRight } from "lucide-react"
 
 const galleryImages = [
   "/gallery-image-1.png",

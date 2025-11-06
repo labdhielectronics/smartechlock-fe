@@ -1,25 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { ChevronDown } from "lucide-react"
 
-const faqs = [
-  {
-    question: "Coordinate movement with breath to flow?",
-    answer:
-      "Our fitness clubs offer a variety of yoga classes that range from beginner to advanced. With Zium access your favorite class or test out a PURE Yoga class anytime, anywhere.",
-  },
-  {
-    question: "What is the difference between a DVR and NVR?",
-    answer:
-      "Our fitness clubs offer a variety of yoga classes that range from beginner to advanced. With Zium access your favorite class or test out a PURE Yoga class anytime, anywhere.",
-  },
-  {
-    question: "The cameras, monitors and/or video recorders?",
-    answer:
-      "Our fitness clubs offer a variety of yoga classes that range from beginner to advanced. With Zium access your favorite class or test out a PURE Yoga class anytime, anywhere.",
-  },
-]
 
 export default function FAQ() {
   const [openIndex, setOpenIndex] = useState(0)
