@@ -1,32 +1,23 @@
-import Header from "@/components/home/header"
-import About from "@/components/home/about"
-import Services from "@/components/home/services"
-import Testimonials from "@/components/home/testimonials"
-import Features from "@/components/home/features"
-import Process from "@/components/home/process"
-import Products from "@/components/home/products"
-import FAQ from "@/components/home/faq"
-import Quote from "@/components/home/quote"
-import Video from "@/components/home/video"
-import Blog from "@/components/home/blog"
-import Carousel from "@/components/home/carousel"
+import Breadcrumb from "@/components/common/breadcrumb"
+import AboutHero from "@/components/about/about-hero"
+import Services from "@/components/about/services"
+import Gallery from "@/components/about/gallery"
+import History from "@/components/about/history"
+import Feature from "@/components/about/feature"
+import NewsFeed from "@/components/about/news-feed"
 
-export default function page() {
+export default function AboutPage() {
   return (
     <>
-      {/* <Header /> */}
-      <Carousel />
-      <About />
+      
+      <Breadcrumb title="About" currentPage="About" />
+      <AboutHero />
       <Services />
-      <Testimonials />
-      <Features />
-      <Process />
-      <Products />
-      <FAQ />
-      <Quote />
-      <Video />
-      <Blog />
-      {/* <Footer /> */}
+      <Gallery />
+      <History />
+      <Feature />
+      <NewsFeed />
+      
     </>
   )
 }
