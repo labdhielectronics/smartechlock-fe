@@ -15,31 +15,32 @@ export default function Features() {
             features
           </span>
           <h2 className="tp-section-title">
-            Opting For Security &amp; Making You Free
+           Smart Security For Modern Living
           </h2>
         </div>
         <div className="row">
           <div className="col-lg-6 col-md-6">
             <div className="fea-list d-flex align-items-center mb-30">
-              <i className="flaticon-spy-camera" />
-              <div className="fea-ctn pl-20">
-                <h5 className="m-0">Full-Time Device Protection</h5>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-6 col-md-6">
-            <div className="fea-list d-flex align-items-center mb-30">
               <i className="flaticon-secure" />
               <div className="fea-ctn pl-20">
-                <h5 className="m-0">Live Footage Collection</h5>
+                <h5 className="m-0">Advanced Encryption
+</h5>
               </div>
             </div>
           </div>
           <div className="col-lg-6 col-md-6">
             <div className="fea-list d-flex align-items-center mb-30">
-              <i className="flaticon-global" />
+              <i className="flaticon-iphone" />
               <div className="fea-ctn pl-20">
-                <h5 className="m-0">Drone CCTV Discussion</h5>
+                <h5 className="m-0">Remote Access</h5>
+              </div>
+            </div>
+          </div>
+          <div className="col-lg-6 col-md-6">
+            <div className="fea-list d-flex align-items-center mb-30">
+              <i className="flaticon-key" />
+              <div className="fea-ctn pl-20">
+                <h5 className="m-0">Keyless Entry</h5>
               </div>
             </div>
           </div>
@@ -47,7 +48,7 @@ export default function Features() {
             <div className="fea-list d-flex align-items-center mb-30">
               <i className="flaticon-database" />
               <div className="fea-ctn pl-20">
-                <h5 className="m-0">Hacker &amp; Custom Solution</h5>
+                <h5 className="m-0">Biometric Security</h5>
               </div>
             </div>
           </div>

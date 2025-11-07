@@ -57,7 +57,7 @@ export default function Carousel() {
   const slides = [
     {
       id: 1,
-      bg: "assets/img/slider/slider3.jpg",
+      bg: "https://omo-oss-image.thefastimg.com/portal-saas/new2023070613253582653/cms/image/2b62dd8e-4ee7-478c-9f24-7ae6661bbb30.jpg_1920xaf.jpg",
       title: "Secure Your Family From All Issues",
       subtitle: "Best CCTV solution in US",
       btn1: { text: "Get In Touch", href: "contact" },
@@ -65,7 +65,7 @@ export default function Carousel() {
     },
     {
       id: 2,
-      bg: "assets/img/slider/slider-2-1.jpg",
+      bg: "https://omo-oss-image.thefastimg.com/portal-saas/new2023070613253582653/cms/image/ff04e336-68f4-448b-a098-e79384bbe2ba.jpg_1920xaf.jpg",
       title: "123Keep Your Home & Office Safe",
       subtitle: "Professional Surveillance Systems",
       btn1: { text: "Get In Touch", href: "contact" },
@@ -73,7 +73,7 @@ export default function Carousel() {
     },
      {
       id: 3,
-      bg: "assets/img/slider/slider3.jpg",
+      bg: "https://omo-oss-image.thefastimg.com/portal-saas/new2023070613253582653/cms/image/93a098e6-f589-4d8a-bfe3-27336b292860.jpg_1920xaf.jpg",
       title: "123Keep Your Home & Office Safe",
       subtitle: "Professional Surveillance Systems",
       btn1: { text: "Get In Touch", href: "contact" },

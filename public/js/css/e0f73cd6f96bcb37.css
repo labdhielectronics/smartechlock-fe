@@ -32175,8 +32175,12 @@ i[class*=flaticon-] {
 	content: ""
 }
 
-.flaticon-global:before {
-	content: ""
+.flaticon-key:before {
+	content: ""
+}
+
+.flaticon-iphone :before {
+	content: ""
 }
 
 .nice-select {
