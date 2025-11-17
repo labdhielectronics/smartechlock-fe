@@ -1,125 +1,162 @@
 "use client";
-import Slider from "react-slick";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
-import Link from "next/link";
-
-import React from "react";
-
-
-
-
-
-function PrevArrow(props: any) {
-  const { className, style, onClick } = props;
-  return (
-    <button
-      type="button"
-      className={`slick-prev slick-arrow ${className || ""}`}
-      style={style}
-      onClick={onClick}
-      aria-label="Previous"
-    >
-      <i className="flaticon-left-arrow" />
-    </button>
-  );
-}
-
-function NextArrow(props: any) {
-  const { className, style, onClick } = props;
-  return (
-    <button
-      type="button"
-      className={`slick-next slick-arrow ${className || ""}`}
-      style={style}
-      onClick={onClick}
-      aria-label="Next"
-    >
-      <i className="flaticon-right-arrow" />
-    </button>
-  );
-}
 
 export default function Carousel() {
-  const settings = {
-    // dots: true,
-    arrows: true,
-    infinite: true,
-    autoplay: true,
-    autoplaySpeed: 4000,
-    speed: 800,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    prevArrow: <PrevArrow />,
-    nextArrow: <NextArrow />,
-  };
 
-  const slides = [
-    {
-      id: 1,
-      bg: "https://omo-oss-image.thefastimg.com/portal-saas/new2023070613253582653/cms/image/2b62dd8e-4ee7-478c-9f24-7ae6661bbb30.jpg_1920xaf.jpg",
-      title: "Secure Your Family From All Issues",
-      subtitle: "Best CCTV solution in US",
-      btn1: { text: "Get In Touch", href: "contact" },
-      btn2: { text: "Our Services", href: "404-2" },
-    },
-    {
-      id: 2,
-      bg: "https://omo-oss-image.thefastimg.com/portal-saas/new2023070613253582653/cms/image/ff04e336-68f4-448b-a098-e79384bbe2ba.jpg_1920xaf.jpg",
-      title: "123Keep Your Home & Office Safe",
-      subtitle: "Professional Surveillance Systems",
-      btn1: { text: "Get In Touch", href: "contact" },
-      btn2: { text: "Explore Services", href: "service" },
-    },
-     {
-      id: 3,
-      bg: "https://omo-oss-image.thefastimg.com/portal-saas/new2023070613253582653/cms/image/93a098e6-f589-4d8a-bfe3-27336b292860.jpg_1920xaf.jpg",
-      title: "123Keep Your Home & Office Safe",
-      subtitle: "Professional Surveillance Systems",
-      btn1: { text: "Get In Touch", href: "contact" },
-      btn2: { text: "Explore Services", href: "service" },
-    }
-  ];
 
   return (
-    <div className="tp-slider-area">
-      <Slider {...settings} className="slider-active slider-arrow-3-style p-relative">
-        {slides.map((slide) => (
-          <div key={slide.id}>
-            <div
-              className="tp-slider-item p-relative tp-slider-height tp-slider-overlay-3 d-flex align-items-center"
-              style={{ backgroundImage: `url(${slide.bg})`, backgroundSize: "cover", backgroundPosition: "center" }}
-            >
-              <div className="container">
-                <div className="row text-center">
-                  <div className="col-xl-8 m-auto">
-                    <div className="tp-slider-content tp-slider-content-two tp-slider-content-three">
-                      <div className="tp-slider-big-text d-none d-xl-block">
-                        <h2>CCTV</h2>
-                      </div>
-                      <span className="tp-slider-sub-title p-0">{slide.subtitle}</span>
-                      <h2 className="tp-slider-title">{slide.title}</h2>
-                    </div>
-                    <div className="tp-slide-btn-box-3 d-flex flex-wrap justify-content-center">
-                      <div className="slider-btn">
-                        <Link className="tp-btn-white" href={slide.btn1.href}>
-                          {slide.btn1.text}
-                        </Link>
-                      </div>
-                      <div className="slider-btn">
-                        <Link className="tp-btn" href={slide.btn2.href}>
-                          {slide.btn2.text}
-                        </Link>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+<>
+  {/* banner start */}
+  <div className="sep-banner sep-banner-pc">
+    <div className="swiper_banner">
+      <div className="swiper-wrapper">
+        <div className="swiper-slide">
+          <a href="#" className="img">
+            <img
+              src="/uploads/image/20250820/global-smart-lock-1.webp"
+              alt=""
+              title=""
+            />
+          </a>
+        </div>
+        <div className="swiper-slide">
+          <a href="products/bluetooth-lever-lock/index.html" className="img">
+            <img
+              src="/uploads/image/20230724/15/residential-smart-lock.webp"
+              alt="China Wifi Smart Door Lock Supplier"
+              title="China Wifi Smart Door Lock Supplier"
+            />
+          </a>
+          <div className="banner_main">
+            <figure>
+              <a href="products/bluetooth-lever-lock/index.html">
+                <h2>TENON SMART DOOR LOCK FOR RESIDENTIAL MARKETS</h2>
+              </a>
+              <a href="products/bluetooth-lever-lock/index.html">
+                <p>
+                  Provide competitively priced keyless entry for the residential
+                  markets.{" "}
+                </p>
+              </a>
+              <a
+                href="products/bluetooth-lever-lock/index.html"
+                className="button"
+              >
+                Learn More &gt;
+              </a>
+            </figure>
           </div>
-        ))}
-      </Slider>
+        </div>
+        <div className="swiper-slide">
+          <a
+            href="products/automatic-electronic-doorbell-face-recognition-smart-lock/index.html"
+            className="img"
+          >
+            <img
+              src="/uploads/image/20230809/15/a7x_1691565772.webp"
+              alt="3D Face Recognition Smart Door Lock Supplier"
+              title="3D Face Recognition Smart Door Lock Supplier"
+            />
+          </a>
+          <div className="banner_main">
+            <figure>
+              <a href="products/automatic-electronic-doorbell-face-recognition-smart-lock/index.html">
+                <h2>3D FACE RECOGNITION UNLOCKING</h2>
+              </a>
+              <a href="products/automatic-electronic-doorbell-face-recognition-smart-lock/index.html">
+                <p>
+                  3D facial Intelligence enabled to distinguish users through
+                  face recognition.{" "}
+                </p>
+              </a>
+              <a
+                href="products/automatic-electronic-doorbell-face-recognition-smart-lock/index.html"
+                className="button"
+              >
+                Learn More &gt;
+              </a>
+            </figure>
+          </div>
+        </div>
+        <div className="swiper-slide">
+          <a href="distribution/index.html" className="img">
+            <img
+              src="/uploads/image/20220317/15/reliable-tenon-smart-locks.jpg"
+              alt="Reliable China Digital Smart Door Lock Supplier"
+              title="Reliable China Digital Smart Door Lock Supplier"
+            />
+          </a>
+          <div className="banner_main">
+            <figure>
+              <a href="distribution/index.html">
+                <h2>RELIABLE TENON SMART LOCKS FOR DISTRIBUTION</h2>
+              </a>
+              <a href="distribution/index.html">
+                <p>
+                  Tenon has studied various doors and usage scenarios to adapt
+                  to the needs of more scenarios, thereby providing a variety of
+                  wholesale smart digital door lock from China, which can be
+                  selected in various scenarios such as real estate projects,
+                  residences,{" "}
+                </p>
+              </a>
+              <a href="distribution/index.html" className="button">
+                Learn More &gt;
+              </a>
+            </figure>
+          </div>
+        </div>
+      </div>
+      <div className="slider-swiper-button">
+        <div className="banner_button_prev iconfont"></div>
+        <div className="banner_button_next iconfont"></div>
+      </div>
+      <div className="banner_icon">
+        <ul>
+          <li>
+            <a href="https://www.facebook.com/tenontech">
+              <span className="iconfont"></span>
+            </a>
+          </li>
+          <li></li>
+          <li>
+            <a href="https://www.linkedin.com/company/tenontech">
+              <span className="iconfont"></span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/channel/UCwILpQWCm1avHbT6KTdXORA">
+              <span className="iconfont"></span>
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
+  </div>
+
+
+
+
+  
+  <div className="mp_banner">
+    <img
+      src="/uploads/image/20220415/10/china-smart-door-lock.jpg"
+      alt="RELIABLE SMART LOCKS FOR DISTRIBUTION"
+      title="RELIABLE SMART LOCKS FOR DISTRIBUTION"
+      className="img"
+    />
+    <div className="banner_cont">
+      <a href="distribution/index.html" className="cont_tel">
+        RELIABLE SMART LOCKS FOR DISTRIBUTION
+      </a>
+      <a href="distribution/index.html" className="button">
+        Learn More &gt;
+      </a>
+    </div>
+  </div>
+  {/* banner end */}
+</>
+
+
   );
 }
 
