@@ -18,6 +18,8 @@ export default function Header() {
             src="uploads/image/20220331/09/tenon-smart-lock.png"
             alt="Guangdong AP Tenon Sci.& Tech. Co., Ltd."
             title="Guangdong AP Tenon Sci.& Tech. Co., Ltd."
+            width={151}
+            height={31}
           />
         </a>
       </figure>
@@ -31,10 +33,10 @@ export default function Header() {
           <a href="smart-door/index.html">Smart Door</a>
         </li>
         <li className="fd_nav ">
-          <a href="company-profile/index.html">About</a>
+          <a href="company-profile">About</a>
         </li>
         <li className="fd_nav ">
-          <a href="distribution/index.html">Distribution</a>
+          <a href="distribution">Distribution</a>
         </li>
         <li className="fd_nav ">
           <a href="company-news/index.html">News &amp; Media</a>
@@ -44,7 +46,7 @@ export default function Header() {
           </div>
         </li>
         <li className="fd_nav ">
-          <a href="contact.html">Contact Us</a>
+          <a href="contact">Contact Us</a>
         </li>
       </ul>
       <div className="search iconfont"></div>
@@ -271,7 +273,7 @@ export default function Header() {
         >
           <span>
             <img
-              src="uploads/image/20220415/09/push-pull-smart-door-lock.png"
+              src="/uploads/image/20220415/09/push-pull-smart-door-lock.png"
               className="menu-image"
               alt="Automatic Lock Series"
               title="Automatic Lock Series"
@@ -282,12 +284,12 @@ export default function Header() {
       </li>
       <li className="menu_item">
         <a
-          href="products/bluetooth-lever-lock/index.html"
+          href="bluetooth-lever-locks"
           className="menu_img_tel"
         >
           <span>
             <img
-              src="uploads/image/20220415/09/bluetooth-smart-digital-door-lock.png"
+              src="/uploads/image/20220415/09/bluetooth-smart-digital-door-lock.png"
               className="menu-image"
               alt="Lever Door Lock"
               title="Lever Door Lock"
@@ -298,12 +300,12 @@ export default function Header() {
       </li>
       <li className="menu_item">
         <a
-          href="products/digital-touchpad-door-lock/index.html"
+          href="digital-touchpad-door-locks"
           className="menu_img_tel"
         >
           <span>
             <img
-              src="uploads/image/20220415/09/digital-touchpad-door-lock.png"
+              src="/uploads/image/20220415/09/digital-touchpad-door-lock.png"
               className="menu-image"
               alt="Digital Touchpad Door Lock"
               title="Digital Touchpad Door Lock"
@@ -314,7 +316,7 @@ export default function Header() {
       </li>
       <li className="menu_item">
         <a
-          href="products/sliding-smart-door-lock/index.html"
+          href="sliding-smart-door-locks"
           className="menu_img_tel"
         >
           <span>
@@ -330,7 +332,7 @@ export default function Header() {
       </li>
       <li className="menu_item">
         <a
-          href="products/high-end-smart-lock/index.html"
+          href="high-end-smart-locks"
           className="menu_img_tel"
         >
           <span>
@@ -345,7 +347,7 @@ export default function Header() {
         </a>
       </li>
       <li className="menu_item">
-        <a href="products/index.html" className="menu_img_tel">
+        <a href="products" className="menu_img_tel">
           <span>
             <img
               width={45}
@@ -359,7 +361,7 @@ export default function Header() {
         </a>
       </li>
       <li className="menu_item">
-        <a href="products/index.html" className="menu_img_tel">
+        <a href="products" className="menu_img_tel">
           <span>
             <img
               width={59}
@@ -466,6 +468,8 @@ export default function Header() {
           src="uploads/image/20220331/09/tenon-smart-lock.png"
           alt="Guangdong AP Tenon Sci.& Tech. Co., Ltd."
           title="Guangdong AP Tenon Sci.& Tech. Co., Ltd."
+          width={151}
+          height={31}
         />
       </a>
       <div className="herder_rightbox">
@@ -715,7 +719,7 @@ export default function Header() {
           <a href="video/index.html">Video</a>
         </div>
         <div className="menuli">
-          <a href="contact.html">Contact Us</a>
+          <a href="contact">Contact Us</a>
         </div>
         <div className="menuli_stare"></div>
         <div className="menuli">

@@ -16,6 +16,8 @@ function Footer() {
               src="uploads/image/20220331/09/tenon-smart-lock.png"
               alt="Guangdong AP Tenon Sci.& Tech. Co., Ltd."
               title="Guangdong AP Tenon Sci.& Tech. Co., Ltd."
+              width={151}
+              height={31}
             />
           </a>
         </figure>

@@ -63,27 +63,27 @@ export default function ProductsIndex() {
       <div className="layout">
         <ul className="page_order_title">
           <li className="">
-            <a href="automatic-push-pull-smart-lock/index.html">
+            <a href="automatic-push-pull-smart-locks">
               Automatic Lock Series <span className="iconfont"></span>
             </a>
           </li>
           <li className="">
-            <a href="bluetooth-lever-lock/index.html">
+            <a href="bluetooth-lever-locks">
               K Series <span className="iconfont"></span>
             </a>
           </li>
           <li className="">
-            <a href="digital-touchpad-door-lock/index.html">
+            <a href="digital-touchpad-door-locks">
               Handle Lock Series <span className="iconfont"></span>
             </a>
           </li>
           <li className="">
-            <a href="sliding-smart-door-lock/index.html">
+            <a href="sliding-smart-door-locks">
               T Series <span className="iconfont"></span>
             </a>
           </li>
           <li className="">
-            <a href="high-end-smart-lock/index.html">
+            <a href="high-end-smart-locks">
               F Series <span className="iconfont"></span>
             </a>
           </li>
