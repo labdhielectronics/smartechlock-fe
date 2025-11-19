@@ -96,8 +96,8 @@ export default function BluetoothLeverLocks() {
                   <a href="../tenon-k2-plus-indoor-smart-tuya-bluetooth-mobile-app-lever-door-lock/index.html">
                     <img
                       src="../../uploads/image/20241022/15/1-k2plus.webp"
-                      alt="TENON K2 plus Indoor Smart Tuya Bluetooth Mobile App Lever Door Lock"
-                      title="TENON K2 plus Indoor Smart Tuya Bluetooth Mobile App Lever Door Lock"
+                      alt="SMARTECH K2 plus Indoor Smart Tuya Bluetooth Mobile App Lever Door Lock"
+                      title="SMARTECH K2 plus Indoor Smart Tuya Bluetooth Mobile App Lever Door Lock"
                     />
                   </a>
                 </div>
@@ -105,7 +105,7 @@ export default function BluetoothLeverLocks() {
                   <div className="tel">K2 plus</div>
                   <h3 className="tels">
                     <a href="../tenon-k2-plus-indoor-smart-tuya-bluetooth-mobile-app-lever-door-lock/index.html">
-                      TENON K2 plus Indoor Smart Tuya Bluetooth Mobile App Lever
+                      SMARTECH K2 plus Indoor Smart Tuya Bluetooth Mobile App Lever
                       Door Lock
                     </a>
                   </h3>
@@ -143,8 +143,8 @@ export default function BluetoothLeverLocks() {
                   <a href="../tenon-k8-waterproof-outdoor-keyless-digital-tuya-wifi-smart-lock-electronic-biometric-fingerprint-smart-door-handle-lock-lever/index.html">
                     <img
                       src="../../uploads/image/20241022/15/1-k8.webp"
-                      alt="TENON K8 Waterproof Outdoor Keyless Digital Tuya Wifi Smart Lock Electronic Biometric Fingerprint Smart Door Handle Lock Lever"
-                      title="TENON K8 Waterproof Outdoor Keyless Digital Tuya Wifi Smart Lock Electronic Biometric Fingerprint Smart Door Handle Lock Lever"
+                      alt="SMARTECH K8 Waterproof Outdoor Keyless Digital Tuya Wifi Smart Lock Electronic Biometric Fingerprint Smart Door Handle Lock Lever"
+                      title="SMARTECH K8 Waterproof Outdoor Keyless Digital Tuya Wifi Smart Lock Electronic Biometric Fingerprint Smart Door Handle Lock Lever"
                     />
                   </a>
                 </div>
@@ -152,7 +152,7 @@ export default function BluetoothLeverLocks() {
                   <div className="tel">K8</div>
                   <h3 className="tels">
                     <a href="../tenon-k8-waterproof-outdoor-keyless-digital-tuya-wifi-smart-lock-electronic-biometric-fingerprint-smart-door-handle-lock-lever/index.html">
-                      TENON K8 Waterproof Outdoor Keyless Digital Tuya Wifi
+                      SMARTECH K8 Waterproof Outdoor Keyless Digital Tuya Wifi
                       Smart Lock Electronic Biometric Fingerprint Smart Door
                       Handle Lock Lever
                     </a>
@@ -198,8 +198,8 @@ export default function BluetoothLeverLocks() {
                   <a href="../tenon-k10-pro-built-in-wifi-palm-vein-unlock-smart-door-lock-with-display-and-digital-door-viewer/index.html">
                     <img
                       src="../../uploads/image/20241022/15/1-k10pro.webp"
-                      alt="Tenon K10 pro Built-in WiFi Palm Vein Unlock Smart Door Lock with Display and Digital Door Viewer"
-                      title="Tenon K10 pro Built-in WiFi Palm Vein Unlock Smart Door Lock with Display and Digital Door Viewer"
+                      alt="SmarTech K10 pro Built-in WiFi Palm Vein Unlock Smart Door Lock with Display and Digital Door Viewer"
+                      title="SmarTech K10 pro Built-in WiFi Palm Vein Unlock Smart Door Lock with Display and Digital Door Viewer"
                     />
                   </a>
                 </div>
@@ -207,7 +207,7 @@ export default function BluetoothLeverLocks() {
                   <div className="tel">K10 pro</div>
                   <h3 className="tels">
                     <a href="../tenon-k10-pro-built-in-wifi-palm-vein-unlock-smart-door-lock-with-display-and-digital-door-viewer/index.html">
-                      Tenon K10 pro Built-in WiFi Palm Vein Unlock Smart Door
+                      SmarTech K10 pro Built-in WiFi Palm Vein Unlock Smart Door
                       Lock with Display and Digital Door Viewer
                     </a>
                   </h3>
@@ -626,11 +626,11 @@ export default function BluetoothLeverLocks() {
       <h2 className="page_order_tel">Controlled Smart Door Lock Features</h2>
       <div className="eight_cotnent">
         <p>
-          Stay connected to your Tenon China Lock with the help of the Tuya
+          Stay connected to your SmarTech China Lock with the help of the Tuya
           module, which can be complemented by a wireless communication
           connection. &nbsp;Open your home door with the latest Touch-to-Open
-          Tenon entry door lock, powered by your smartphone and, whether leaving
-          or coming home, Tenon smart locks can be locked and unlocked with just
+          SmarTech entry door lock, powered by your smartphone and, whether leaving
+          or coming home, SmarTech smart locks can be locked and unlocked with just
           one touch.
         </p>
         <p>
@@ -658,24 +658,24 @@ export default function BluetoothLeverLocks() {
     </div>
     <div className="reach_main">
       <img
-        src="../../uploads/image/20220403/17/tenon-smart-door-locks.jpg"
-        alt="RELIABLE TENON SMART LOCKS FOR BUSINESSES"
-        title="RELIABLE TENON SMART LOCKS FOR BUSINESSES"
+        src="../../uploads/image/20220403/17/smartech-smart-door-locks.jpg"
+        alt="RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES"
+        title="RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES"
       />
       <div className="layout">
         <div className="reach_cont">
           <div className="reach_cont_tel page_order_tel">
-            RELIABLE TENON SMART LOCKS FOR BUSINESSES
+            RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES
           </div>
           <div className="reach_cont_tex">
             <p>
-              Tenon put eyes on a world vision and devote ourselves to expanding
+              SmarTech put eyes on a world vision and devote ourselves to expanding
               the business into global.
             </p>
             <p>
               Reach out to us by{" "}
-              <a href="mailto:info@aptenontech.com" target="_self">
-                info@aptenontech.com
+              <a href="mailto:info@smartechlock.com" target="_self">
+                info@smartechlock.com
               </a>{" "}
               for further details.
             </p>{" "}
@@ -695,9 +695,9 @@ export default function BluetoothLeverLocks() {
       <div className="layout">
         <div className="page_order_tel">What's New</div>
         <div className="tex">
-          Tenon smart lock enables door locks with fingerprint access. Even if
+          SmarTech smart lock enables door locks with fingerprint access. Even if
           you are away, you can control and monitor the house. Upgrade your door
-          lock with the all-new Tenon smart locks. Automatically lock or unlock
+          lock with the all-new SmarTech smart locks. Automatically lock or unlock
           the door in one step, and check the activity record through the remote
           control.{" "}
         </div>
@@ -714,7 +714,7 @@ export default function BluetoothLeverLocks() {
               href="../../blog/index.html"
               className="index_news_titles  tex_a"
             >
-              TENON SMART LOCK NEWS CENTER
+              SMARTECH SMART LOCK NEWS CENTER
             </a>
             <div className="news_more">
               <a href="../../blog/index.html" className="index_news_more">
@@ -732,7 +732,7 @@ export default function BluetoothLeverLocks() {
                         <div className="news_day">Nov</div>
                         <div className="news_year">15-2024</div>
                         <p>
-                          Tenon appeared at the 136th Canton Fair to show the
+                          SmarTech appeared at the 136th Canton Fair to show the
                           world the new smart door &amp; lock
                         </p>
                       </figure>
@@ -746,8 +746,8 @@ export default function BluetoothLeverLocks() {
                           <img
                             className="blog-img"
                             src="../../uploads/image/20241115/16/tenon-appeared-at-the-136th-canton-fair-to-show-the-world-the-new-smart-door-lock.webp"
-                            alt="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
-                            title="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                            alt="SmarTech appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                            title="SmarTech appeared at the 136th Canton Fair to show the world the new smart door & lock"
                           />
                         </a>
                       </span>

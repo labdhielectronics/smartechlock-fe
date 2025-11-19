@@ -229,23 +229,23 @@ export default function SlidingSmartDoorLocks() {
     <div className="reach_main">
       <img
         src="../../uploads/image/20220403/17/tenon-smart-door-locks.jpg"
-        alt="RELIABLE TENON SMART LOCKS FOR BUSINESSES"
-        title="RELIABLE TENON SMART LOCKS FOR BUSINESSES"
+        alt="RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES"
+        title="RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES"
       />
       <div className="layout">
         <div className="reach_cont">
           <div className="reach_cont_tel page_order_tel">
-            RELIABLE TENON SMART LOCKS FOR BUSINESSES
+            RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES
           </div>
           <div className="reach_cont_tex">
             <p>
-              Tenon put eyes on a world vision and devote ourselves to expanding
+              SmarTech put eyes on a world vision and devote ourselves to expanding
               the business into global.
             </p>
             <p>
               Reach out to us by{" "}
-              <a href="mailto:info@aptenontech.com" target="_self">
-                info@aptenontech.com
+              <a href="mailto:info@smartechlock.com" target="_self">
+                info@smartechlock.com
               </a>{" "}
               for further details.
             </p>{" "}
@@ -265,9 +265,9 @@ export default function SlidingSmartDoorLocks() {
       <div className="layout">
         <div className="page_order_tel">What's New</div>
         <div className="tex">
-          Tenon smart lock enables door locks with fingerprint access. Even if
+          SmarTech smart lock enables door locks with fingerprint access. Even if
           you are away, you can control and monitor the house. Upgrade your door
-          lock with the all-new Tenon smart locks. Automatically lock or unlock
+          lock with the all-new SmarTech smart locks. Automatically lock or unlock
           the door in one step, and check the activity record through the remote
           control.{" "}
         </div>
@@ -284,7 +284,7 @@ export default function SlidingSmartDoorLocks() {
               href="../../blog/index.html"
               className="index_news_titles  tex_a"
             >
-              TENON SMART LOCK NEWS CENTER
+              SMARTECH SMART LOCK NEWS CENTER
             </a>
             <div className="news_more">
               <a href="../../blog/index.html" className="index_news_more">
@@ -302,7 +302,7 @@ export default function SlidingSmartDoorLocks() {
                         <div className="news_day">Nov</div>
                         <div className="news_year">15-2024</div>
                         <p>
-                          Tenon appeared at the 136th Canton Fair to show the
+                          SmarTech appeared at the 136th Canton Fair to show the
                           world the new smart door &amp; lock
                         </p>
                       </figure>
@@ -316,8 +316,8 @@ export default function SlidingSmartDoorLocks() {
                           <img
                             className="blog-img"
                             src="../../uploads/image/20241115/16/tenon-appeared-at-the-136th-canton-fair-to-show-the-world-the-new-smart-door-lock.webp"
-                            alt="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
-                            title="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                            alt="SmarTech appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                            title="SmarTech appeared at the 136th Canton Fair to show the world the new smart door & lock"
                           />
                         </a>
                       </span>

@@ -29,7 +29,7 @@ export default function Carousel() {
           <div className="banner_main">
             <figure>
               <a href="products/bluetooth-lever-lock/index.html">
-                <h2>TENON SMART DOOR LOCK FOR RESIDENTIAL MARKETS</h2>
+                <h2>SMARTECH DOOR LOCK FOR RESIDENTIAL MARKETS</h2>
               </a>
               <a href="products/bluetooth-lever-lock/index.html">
                 <p>
@@ -88,11 +88,11 @@ export default function Carousel() {
           <div className="banner_main">
             <figure>
               <a href="distribution/index.html">
-                <h2>RELIABLE TENON SMART LOCKS FOR DISTRIBUTION</h2>
+                <h2>RELIABLE SMARTECH LOCKS FOR DISTRIBUTION</h2>
               </a>
               <a href="distribution/index.html">
                 <p>
-                  Tenon has studied various doors and usage scenarios to adapt
+                  Smartech has studied various doors and usage scenarios to adapt
                   to the needs of more scenarios, thereby providing a variety of
                   wholesale smart digital door lock from China, which can be
                   selected in various scenarios such as real estate projects,

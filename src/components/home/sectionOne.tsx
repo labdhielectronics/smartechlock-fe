@@ -6,10 +6,10 @@ export default function SectionOne() {
     <div className="body_one">
   <div className="body_cont_tel body_cont">
     <a href="products/index.html" className="tex_a">
-      TENON SMART LOCK{" "}
+       SMARTECH LOCK{" "}
     </a>
     <p className="">
-      TENON&nbsp;has been deeply involved in the smart door lock industry for 13
+      SMARTECH&nbsp;has been deeply involved in the smart door lock industry for 13
       years, always adhering to independent&nbsp;research and development,
       design, and production, and has been constantly innovating. At present, it
       has produced several smart door locks&nbsp;that are popular with consumers
@@ -35,7 +35,7 @@ export default function SectionOne() {
             Automatic Lock Series{" "}
           </a>
           <div className="tex">
-            Equipped with TENON patented fully automatic&nbsp;Mortise, enjoy a
+            Equipped with SMARTECH patented fully automatic&nbsp;Mortise, enjoy a
             smooth and fast locking and unlocking experience, fully automated
             with low noise.{" "}
           </div>
@@ -51,21 +51,21 @@ export default function SectionOne() {
             href="products/tenon-a5-pro-ultra-slim-18mm-automatic-control-built-in-wifi-palm-vein-unlock-smart-door-lock/index.html"
             className="tex"
           >
-            Tenon A5 pro Ultra Slim 18mm Automatic Control Built-in WiFi Palm
+            SmarTech A5 pro Ultra Slim 18mm Automatic Control Built-in WiFi Palm
             Vein Unlock Smart Door Lock with Display and Digital Door Viewer{" "}
           </a>
           <a
             href="products/tenon-a9-pro-3d-face-recognition-built-in-wifi-palm-vein-unlock-smart-door-lock-with-display-and-digital-door-viewer/index.html"
             className="tex"
           >
-            Tenon A9 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock
+            SmarTech A9 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock
             Smart Door Lock with Display And Digital Door Viewer{" "}
           </a>
           <a
             href="products/tenon-d7-pro-3d-face-recognition-built-in-wifi-palm-vein-unlock-smart-door-lock-with-display-and-digital-door-viewer/index.html"
             className="tex"
           >
-            Tenon D7 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock
+            SmarTech D7 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock
             Smart Door Lock with Display And Digital Door Viewer{" "}
           </a>
         </div>
@@ -159,20 +159,20 @@ export default function SectionOne() {
             href="products/tenon-k2-plus-indoor-smart-tuya-bluetooth-mobile-app-lever-door-lock/index.html"
             className="tex"
           >
-            TENON K2 plus Indoor Smart Tuya Bluetooth Mobile App Lever Door Lock{" "}
+            SMARTECH K2 plus Indoor Smart Tuya Bluetooth Mobile App Lever Door Lock{" "}
           </a>
           <a
             href="products/tenon-k8-waterproof-outdoor-keyless-digital-tuya-wifi-smart-lock-electronic-biometric-fingerprint-smart-door-handle-lock-lever/index.html"
             className="tex"
           >
-            TENON K8 Waterproof Outdoor Keyless Digital Tuya Wifi Smart Lock
+            SMARTECH K8 Waterproof Outdoor Keyless Digital Tuya Wifi Smart Lock
             Electronic Biometric Fingerprint Smart Door Handle Lock Lever{" "}
           </a>
           <a
             href="products/tenon-k10-pro-built-in-wifi-palm-vein-unlock-smart-door-lock-with-display-and-digital-door-viewer/index.html"
             className="tex"
           >
-            Tenon K10 pro Built-in WiFi Palm Vein Unlock Smart Door Lock with
+            SMARTECH K10 pro Built-in WiFi Palm Vein Unlock Smart Door Lock with
             Display and Digital Door Viewer{" "}
           </a>
         </div>

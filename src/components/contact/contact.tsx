@@ -24,8 +24,8 @@ export default function Contact() {
     <div className="banner_img">
       <img
         src="uploads/image/20250715/neiye.webp"
-        alt="RELIABLE TENON SMART LOCKS FOR BUSINESSES"
-        title="RELIABLE TENON SMART LOCKS FOR BUSINESSES"
+        alt="RELIABLE SMARTECH LOCKS FOR BUSINESSES"
+        title="RELIABLE SMARTECH LOCKS FOR BUSINESSES"
       />
     </div>
   </div>
@@ -38,7 +38,7 @@ export default function Contact() {
           China{" "}
         </div>
         <div className="tex">
-          <a href="mailto:info@aptenontech.com">info@aptenontech.com</a>
+          <a href="mailto:info@smartechlock.com">info@smartechlock.com</a>
         </div>
         <div className="tex">Sales: </div>
         <div className="tex">Support: </div>
@@ -54,7 +54,7 @@ export default function Contact() {
           encType="multipart/form-data"
           data-plugin="validator"
           method="post"
-          action="https://www.aptenontech.com/submission-successful.html"
+          action="https://www.smartechlock.com/submission-successful.html"
         >
           <input
             type="hidden"
@@ -142,7 +142,7 @@ export default function Contact() {
       <div className="index_news_items">
         <div className="index_news_text">
           <a href="blog/index.html" className="index_news_titles  tex_a">
-            TENON SMART LOCK NEWS CENTER
+            SMARTECH LOCK NEWS CENTER
           </a>
           <div className="news_more">
             <a href="blog/index.html" className="index_news_more">
@@ -160,7 +160,7 @@ export default function Contact() {
                       <div className="news_day">Nov</div>
                       <div className="news_year">15-2024</div>
                       <p>
-                        Tenon appeared at the 136th Canton Fair to show the
+                        Smartech appeared at the 136th Canton Fair to show the
                         world the new smart door &amp; lock
                       </p>
                     </figure>
@@ -174,8 +174,8 @@ export default function Contact() {
                         <img
                           className="blog-img"
                           src="uploads/image/20241115/16/tenon-appeared-at-the-136th-canton-fair-to-show-the-world-the-new-smart-door-lock.webp"
-                          alt="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
-                          title="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                          alt="Smartech appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                          title="Smartech appeared at the 136th Canton Fair to show the world the new smart door & lock"
                         />
                       </a>
                     </span>

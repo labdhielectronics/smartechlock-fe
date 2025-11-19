@@ -5,7 +5,7 @@ export default function NewsMain() {
     <div className="index_news_items">
       <div className="index_news_text">
         <a href="blog/index.html" className="index_news_titles  tex_a">
-          TENON SMART LOCK NEWS CENTER
+          SMARTECH LOCK NEWS CENTER
         </a>
         <div className="news_more">
           <a href="blog/index.html" className="index_news_more">
@@ -23,7 +23,7 @@ export default function NewsMain() {
                     <div className="news_day">Nov</div>
                     <div className="news_year">15-2024</div>
                     <p>
-                      Tenon appeared at the 136th Canton Fair to show the world
+                      SmarTech appeared at the 136th Canton Fair to show the world
                       the new smart door &amp; lock
                     </p>
                   </figure>
@@ -37,8 +37,8 @@ export default function NewsMain() {
                       <img
                         className="blog-img"
                         src="/uploads/image/20241115/16/tenon-appeared-at-the-136th-canton-fair-to-show-the-world-the-new-smart-door-lock.webp"
-                        alt="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
-                        title="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                        alt="SmarTech appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                        title="SmarTech appeared at the 136th Canton Fair to show the world the new smart door & lock"
                       />
                     </a>
                   </span>

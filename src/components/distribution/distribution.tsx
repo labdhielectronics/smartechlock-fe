@@ -13,14 +13,14 @@ export default function Distribution() {
     />
     <div className="banner_cont">
       <h1 className="tel">
-        JOIN TENON AS A DISTRIBUTOR,
+        JOIN SMARTECH AS A DISTRIBUTOR,
         <br />
         GROW YOUR BUSINESS WITH ELECTRONIC LOCKS.{" "}
       </h1>
       <div className="summary">
         BRIGHT MARKET PROSPECTS, EMBRACE THE 5G ERA.{" "}
       </div>
-      <div className="cont_btn fromcont_btn">Join Tenon</div>
+      <div className="cont_btn fromcont_btn">Join Smartech</div>
       <div className="content">
         <p>
           This Is The Gold Mining Industry, And The Curtain Will Never End.
@@ -50,7 +50,7 @@ export default function Distribution() {
       <div className="lock_item">
         <div className="item_cont">
           <h2 className="distr_tel">
-            TENON IS THE MASTER BRAND IN THE CHINA'S SMART LOCK INDUSTRY{" "}
+            SMARTECH IS THE MASTER BRAND IN THE CHINA'S SMART LOCK INDUSTRY{" "}
           </h2>
           <div className="tex">
             a listed company on the capital NEEQ market, and has always
@@ -58,8 +58,8 @@ export default function Distribution() {
           </div>
           <div className="content">
             <p data-wow-delay="0.8s" data-wow-duration="0.7s">
-              Tenon found in the year of 2011, the capital is 102 million RMB,
-              owing the own certified brands such as “Tenon” smart lock. Its
+              Smartech found in the year of 2011, the capital is 102 million RMB,
+              owing the own certified brands such as “Smartech” smart lock. Its
               predecessor started in 1991. It is not only a leading brand
               dedicated to the Chinese security industry, but also a pioneer
               brand that has successfully transformed into a professional
@@ -69,7 +69,7 @@ export default function Distribution() {
               <br />
             </p>
             <p data-wow-delay="0.8s" data-wow-duration="0.7s">
-              After years of hard work, Tenon logged into the capital NEEQ
+              After years of hard work, Smartech logged into the capital NEEQ
               market in 2015. The number of shares in the NEEQ market in 2015
               was 833559. It is a listed company on the capital NEEQ market and
               has always maintained a leading position in innovation.
@@ -78,7 +78,7 @@ export default function Distribution() {
               <br />
             </p>
             <p data-wow-delay="0.8s" data-wow-duration="0.7s">
-              In addition, Tenon is a professional technology development
+              In addition, Smartech is a professional technology development
               company that integrates scientific research, design,
               manufacturing, and marketing in the field of the smart home.
             </p>{" "}
@@ -87,8 +87,8 @@ export default function Distribution() {
         <div className="item_img">
           <img
             src="/uploads/image/20220403/16/smart-door-locks.jpg"
-            alt="TENON IS THE MASTER BRAND IN THE CHINA'S SMART LOCK INDUSTRY"
-            title="TENON IS THE MASTER BRAND IN THE CHINA'S SMART LOCK INDUSTRY"
+            alt="SMARTECH IS THE MASTER BRAND IN THE CHINA'S SMART LOCK INDUSTRY"
+            title="SMARTECH IS THE MASTER BRAND IN THE CHINA'S SMART LOCK INDUSTRY"
           />
         </div>
       </div>
@@ -96,14 +96,14 @@ export default function Distribution() {
     <div className="distr_security">
       <div className="layout">
         <h2 className="distr_tel">
-          TO BE ORIGINAL WITH INGENUITY SECURITY IS THE CORE VALUE OF TENON
+          TO BE ORIGINAL WITH INGENUITY SECURITY IS THE CORE VALUE OF SMARTECH
           SMART LOCK.{" "}
         </h2>
         <div className="tex">
           <p>
-            In the last ten years, Tenon has raised the banner of intelligence
+            In the last ten years, Smartech has raised the banner of intelligence
             and introduced the world's advanced equipment, processes and
-            management systems. Tenon has established a strict and efficient
+            management systems. Smartech has established a strict and efficient
             modern manufacturing system and has become a leading brand in the
             technological advancement of China's smart lock industry.
           </p>{" "}
@@ -198,7 +198,7 @@ export default function Distribution() {
           </ul>{" "}
         </div>
         <div className="research_summary">
-          Tenon has established a strong R&amp;D team and recruited professional
+          Smartech has established a strong R&amp;D team and recruited professional
           technical R&amp;D talents, possessing cutting-edge technology in the
           smart lock industry and hundreds of authorized patents and software
           copyrights, including 12 invention patents. Before the new product is
@@ -216,7 +216,7 @@ export default function Distribution() {
           <div className="item_list">
             <div className="list_text">
               <h3 className="tel">
-                So far, Tenon has created a variety of top-selling smart locks
+                So far, Smartech has created a variety of top-selling smart locks
                 in the markets.{" "}
               </h3>
               <div className="tex">
@@ -224,15 +224,15 @@ export default function Distribution() {
                   Excellent Design-Compact appearance, Aesthetic tendency, User
                   expectation. Ⅱ.Exquisite details performance, Advanced
                   aesthetic tendency, Exceed user expectations. Ⅲ.The core
-                  values of Tenon is to create the compact design products.
+                  values of Smartech is to create the compact design products.
                 </p>{" "}
               </div>
             </div>
             <div className="list_img">
               <img
                 src="/uploads/image/20220403/16/smart-door-lock.png"
-                alt="So far, Tenon has created a variety of top-selling smart locks in the markets."
-                title="So far, Tenon has created a variety of top-selling smart locks in the markets."
+                alt="So far, Smartech has created a variety of top-selling smart locks in the markets."
+                title="So far, Smartech has created a variety of top-selling smart locks in the markets."
               />
             </div>
           </div>
@@ -274,7 +274,7 @@ export default function Distribution() {
                   competitor’s product performance.Carry out functional
                   innovation from the product level to ensure that the product
                   is competitive. Leading the development of the smart lock
-                  industry is the Tenon's core values.
+                  industry is the Smartech's core values.
                 </p>{" "}
               </div>
             </div>
@@ -290,17 +290,17 @@ export default function Distribution() {
       </div>
     </div>
     <div className="distr_patents layout">
-      <h2 className="distr_tel">CORE PATENTS OF TENON SMART LOCKS </h2>
+      <h2 className="distr_tel">CORE PATENTS OF SMARTECH LOCKS </h2>
       <div className="patents_img">
         <img
           src="/uploads/image/20220403/16/china-smart-door-lock.png"
-          alt="CORE PATENTS OF TENON SMART LOCKS"
-          title="CORE PATENTS OF TENON SMART LOCKS"
+          alt="CORE PATENTS OF SMARTECH LOCKS"
+          title="CORE PATENTS OF SMARTECH LOCKS"
         />
       </div>
       <div className="patents_tex">
         <p>
-          The investment of Tenon's R&amp;D cost has growth year by year, and
+          The investment of Smartech's R&amp;D cost has growth year by year, and
           the innovative R&amp;D investment has reached to 10% above. Core
           patents have seen proprietary growth year by year, and intellectual
           property rights have grown rapidly. We will never stop taking the step
@@ -310,7 +310,7 @@ export default function Distribution() {
     </div>
     <div className="distr_projects ">
       <div className="layout">
-        <div className="distr_tel">PROJECTS OF TENON SMART LOCKS</div>
+        <div className="distr_tel">PROJECTS OF SMARTECH SMART LOCKS</div>
         <div className="projects_btn">
           <div className="swipers_btn projects_next iconfont"></div>
           <div className="swipers_btn projects_prev iconfont"></div>
@@ -363,7 +363,7 @@ export default function Distribution() {
     <div className="distr_business">
       <div className="layout">
         <div className="distr_tel">
-          AT TENON, WE PUT EYES ON A WORLD VISION AND DEVOTE OURSELVES TO
+          AT SMARTECH, WE PUT EYES ON A WORLD VISION AND DEVOTE OURSELVES TO
           EXPANDING THE BUSINESS INTO GLOBAL.
         </div>
         <div className="business_item">
@@ -371,8 +371,8 @@ export default function Distribution() {
             <div className="list_img">
               <img
                 src="/uploads/image/20220403/17/tenon-smart-door-locks1.png"
-                alt="Digital store construction operation support from TENON smart door locks"
-                title="Digital store construction operation support from TENON smart door locks"
+                alt="Digital store construction operation support from SMARTECH door locks"
+                title="Digital store construction operation support from SMARTECH door locks"
               />
             </div>
             <div className="list_tel">
@@ -383,8 +383,8 @@ export default function Distribution() {
             <div className="list_img">
               <img
                 src="/uploads/image/20220403/17/tenon-smart-door-lock-china.png"
-                alt="Extended support by multiple channels from TENON smart door locks"
-                title="Extended support by multiple channels from TENON smart door locks"
+                alt="Extended support by multiple channels from SMARTECH door locks"
+                title="Extended support by multiple channels from SMARTECH door locks"
               />
             </div>
             <div className="list_tel">
@@ -395,8 +395,8 @@ export default function Distribution() {
             <div className="list_img">
               <img
                 src="/uploads/image/20220403/17/smart-door-lock-supplier.png"
-                alt="Brand Promotion Support from TENON smart door locks"
-                title="Brand Promotion Support from TENON smart door locks"
+                alt="Brand Promotion Support from SMARTECH door locks"
+                title="Brand Promotion Support from SMARTECH door locks"
               />
             </div>
             <div className="list_tel">Brand Promotion Support </div>
@@ -405,8 +405,8 @@ export default function Distribution() {
             <div className="list_img">
               <img
                 src="/uploads/image/20220403/17/smart-electronic-lock-company.png"
-                alt="Network marketing support from TENON smart door locks"
-                title="Network marketing support from TENON smart door locks"
+                alt="Network marketing support from SMARTECH door locks"
+                title="Network marketing support from SMARTECH door locks"
               />
             </div>
             <div className="list_tel">Network marketing support </div>
@@ -415,8 +415,8 @@ export default function Distribution() {
             <div className="list_img">
               <img
                 src="/uploads/image/20220403/17/smart-lock-company.png"
-                alt="Professional training support from TENON smart door locks"
-                title="Professional training support from TENON smart door locks"
+                alt="Professional training support from SMARTECH door locks"
+                title="Professional training support from SMARTECH door locks"
               />
             </div>
             <div className="list_tel">Professional training support </div>
@@ -425,8 +425,8 @@ export default function Distribution() {
             <div className="list_img">
               <img
                 src="../uploads/image/20220403/17/smart-locks-wholesale.png"
-                alt="Promotions support from TENON smart door locks"
-                title="Promotions support from TENON smart door locks"
+                alt="Promotions support from SMARTECH smart door locks"
+                title="Promotions support from SMARTECH smart door locks"
               />
             </div>
             <div className="list_tel">Promotions support </div>
@@ -438,23 +438,23 @@ export default function Distribution() {
   <div className="reach_main">
     <img
       src="../uploads/image/20220403/17/tenon-smart-door-locks.jpg"
-      alt="RELIABLE TENON SMART LOCKS FOR BUSINESSES"
-      title="RELIABLE TENON SMART LOCKS FOR BUSINESSES"
+      alt="RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES"
+      title="RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES"
     />
     <div className="layout">
       <div className="reach_cont">
         <div className="reach_cont_tel page_order_tel">
-          RELIABLE TENON SMART LOCKS FOR BUSINESSES
+          RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES
         </div>
         <div className="reach_cont_tex">
           <p>
-            Tenon put eyes on a world vision and devote ourselves to expanding
+            Smartech put eyes on a world vision and devote ourselves to expanding
             the business into global.
           </p>
           <p>
             Reach out to us by{" "}
-            <a href="mailto:info@aptenontech.com" target="_self">
-              info@aptenontech.com
+            <a href="mailto:info@smartechlock.com" target="_self">
+              info@smartechlock.com
             </a>{" "}
             for further details.
           </p>{" "}
@@ -475,7 +475,7 @@ export default function Distribution() {
       <div className="index_news_items">
         <div className="index_news_text">
           <a href="../blog/index.html" className="index_news_titles  tex_a">
-            TENON SMART LOCK NEWS CENTER
+            SMARTECH LOCK NEWS CENTER
           </a>
           <div className="news_more">
             <a href="../blog/index.html" className="index_news_more">
@@ -493,7 +493,7 @@ export default function Distribution() {
                       <div className="news_day">Nov</div>
                       <div className="news_year">15-2024</div>
                       <p>
-                        Tenon appeared at the 136th Canton Fair to show the
+                        Smartech appeared at the 136th Canton Fair to show the
                         world the new smart door &amp; lock
                       </p>
                     </figure>
@@ -507,8 +507,8 @@ export default function Distribution() {
                         <img
                           className="blog-img"
                           src="../uploads/image/20241115/16/tenon-appeared-at-the-136th-canton-fair-to-show-the-world-the-new-smart-door-lock.webp"
-                          alt="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
-                          title="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                          alt="Smartech appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                          title="Smartech appeared at the 136th Canton Fair to show the world the new smart door & lock"
                         />
                       </a>
                     </span>

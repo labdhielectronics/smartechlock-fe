@@ -34,15 +34,15 @@ export default function RootLayout({
         <meta charSet="utf-8" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <title>
-         SmarTech Locks - Smart Electronic Lock Company, Smart Lock Companies, Digital Door Lock Company Door Lock Lock Factory Door Factory Smart Door Lock Door Lock Custom Door Lock OEM TENON SMART
+         SmarTech Locks - Smart Electronic Lock Company, Smart Lock Companies, Digital Door Lock Company Door Lock Lock Factory Door Factory Smart Door Lock Door Lock Custom Door Lock OEM SMARTECH LOCKS
         </title>
         <meta
           name="description"
-          content="TENON is a leading smart locks company in China. We provide a variety of smart locks wholesale, which can be employed in various scenarios such as real estate projects, residences, offices, etc. First-class research centers & high-standard dust-free workshop. Choose reliable smart lock supplier now!"
+          content="SmarTech Locks is a leading smart locks company in China. We provide a variety of smart locks wholesale, which can be employed in various scenarios such as real estate projects, residences, offices, etc. First-class research centers & high-standard dust-free workshop. Choose reliable smart lock supplier now!"
         />
         <meta
           name="keywords"
-          content="smart electronic lock company, smart lock companies, digital door lock company door lock lock factory door factory Smart Door Lock door lock custom door lock oem TENON SMART News & Media"
+          content="smart electronic lock company, smart lock companies, digital door lock company door lock lock factory door factory Smart Door Lock door lock custom door lock oem SMARTECH LOCKS News & Media"
         />
         <meta name="robots" content="noodp" />
         <meta
@@ -54,29 +54,29 @@ export default function RootLayout({
         <meta property="og:type" content="website" />
         <meta
           property="og:title"
-          content="Digital Electronic Smart Door Lock Wholesale Manufacturer/Supplier/Factory China | Tenon Lock"
+          content="Digital Electronic Smart Door Lock Wholesale Manufacturer/Supplier/Factory China | SmarTech Lock"
         />
         <meta
           property="og:description"
-          content="TENON is a leading smart locks company in China. We provide a variety of smart locks wholesale, which can be employed in various scenarios such as real estate projects, residences, offices, etc. First-class research centers & high-standard dust-free workshop. Choose reliable smart lock supplier now!"
+          content="SMARTECH is a leading smart locks company in China. We provide a variety of smart locks wholesale, which can be employed in various scenarios such as real estate projects, residences, offices, etc. First-class research centers & high-standard dust-free workshop. Choose reliable smart lock supplier now!"
         />
         {/* <meta property="og:url" content="index.html" /> */}
         <meta
           property="og:site_name"
-          content="Guangdong AP Tenon Sci.& Tech. Co., Ltd."
+          content="Guangdong AP SmarTech Sci.& Tech. Co., Ltd."
         />
         <meta name="twitter:card" content="summary" />
         <meta
           name="twitter:site"
-          content="@Guangdong AP Tenon Sci.& Tech. Co., Ltd."
+          content="@Guangdong AP SmarTech Sci.& Tech. Co., Ltd."
         />
         <meta
           name="twitter:description"
-          content="TENON is a leading smart locks company in China. We provide a variety of smart locks wholesale, which can be employed in various scenarios such as real estate projects, residences, offices, etc. First-class research centers & high-standard dust-free workshop. Choose reliable smart lock supplier now!"
+          content="SMARTECH is a leading smart locks company in China. We provide a variety of smart locks wholesale, which can be employed in various scenarios such as real estate projects, residences, offices, etc. First-class research centers & high-standard dust-free workshop. Choose reliable smart lock supplier now!"
         />
         <meta
           name="twitter:title"
-          content="Digital Electronic Smart Door Lock Wholesale Manufacturer/Supplier/Factory China | Tenon Lock"
+          content="Digital Electronic Smart Door Lock Wholesale Manufacturer/Supplier/Factory China | SmarTech Lock"
         />
         <link rel="canonical" href="index.html" />
         <Script type="application/ld+json">
@@ -99,7 +99,7 @@ export default function RootLayout({
             "@context": "http://schema.org",
             "@type": "Organization",
             url: "https://www.aptenontech.com",
-            logo: "https://www.aptenontech.com/uploads/image/20220331/09/tenon-smart-lock.png",
+            logo: "https://www.aptenontech.com/uploads/image/20220331/09/smartechlock.png",
             address: {
               "@type": "PostalAddress",
               addressLocality: "Guangzhou",
@@ -241,37 +241,3 @@ export default function RootLayout({
   );
 }
 
-// import type { Metadata } from "next";
-// import { Geist, Geist_Mono } from "next/font/google";
-// import "./globals.css";
-
-// const geistSans = Geist({
-//   variable: "--font-geist-sans",
-//   subsets: ["latin"],
-// });
-
-// const geistMono = Geist_Mono({
-//   variable: "--font-geist-mono",
-//   subsets: ["latin"],
-// });
-
-// export const metadata: Metadata = {
-//   title: "Create Next App",
-//   description: "Generated by create next app",
-// };
-
-// export default function RootLayout({
-//   children,
-// }: Readonly<{
-//   children: React.ReactNode;
-// }>) {
-//   return (
-//     <html lang="en">
-//       <body
-//         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-//       >
-//         {children}
-//       </body>
-//     </html>
-//   );
-// }

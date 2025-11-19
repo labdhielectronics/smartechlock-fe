@@ -26,9 +26,9 @@ export default function AutomaticPushPullSmartLocks() {
       <h1 className="index_tel">Automatic Lock Series</h1>
       <div className="tex">
         <p>
-          Designed for the residential market, Tenon smart door lock push pull
+          Designed for the residential market, SmarTech smart door lock push pull
           provides an automatic check-in and check-out process for the whole
-          family in any climate from -20℃ to 75℃. Tenon has developed
+          family in any climate from -20℃ to 75℃. SmarTech has developed
           million-level laboratories in research and development capabilities,
           including an extensive range of mortise and cylindrical locks,
           electromechanical products, and systems. When it comes to strength,
@@ -109,7 +109,7 @@ export default function AutomaticPushPullSmartLocks() {
                   <a href="../../index.html" target="_self">
                     smart door lock supplier
                   </a>
-                  , Tenon's A series of automatic smart door lock push-pull is
+                  , SmarTech's A series of automatic smart door lock push-pull is
                   your best choice for keyless entry.
                 </p>{" "}
               </div>
@@ -120,8 +120,8 @@ export default function AutomaticPushPullSmartLocks() {
                   <a href="../tenon-a5-pro-ultra-slim-18mm-automatic-control-built-in-wifi-palm-vein-unlock-smart-door-lock/index.html">
                     <img
                       src="../../uploads/image/20241025/09/a5pro-1.webp"
-                      alt="Tenon A5 pro Ultra Slim 18mm Automatic Control Built-in WiFi Palm Vein Unlock Smart Door Lock with Display and Digital Door Viewer"
-                      title="Tenon A5 pro Ultra Slim 18mm Automatic Control Built-in WiFi Palm Vein Unlock Smart Door Lock with Display and Digital Door Viewer"
+                      alt="SmarTech A5 pro Ultra Slim 18mm Automatic Control Built-in WiFi Palm Vein Unlock Smart Door Lock with Display and Digital Door Viewer"
+                      title="SmarTech A5 pro Ultra Slim 18mm Automatic Control Built-in WiFi Palm Vein Unlock Smart Door Lock with Display and Digital Door Viewer"
                     />
                   </a>
                 </div>
@@ -129,7 +129,7 @@ export default function AutomaticPushPullSmartLocks() {
                   <div className="tel">A5 pro</div>
                   <h3 className="tels">
                     <a href="../tenon-a5-pro-ultra-slim-18mm-automatic-control-built-in-wifi-palm-vein-unlock-smart-door-lock/index.html">
-                      Tenon A5 pro Ultra Slim 18mm Automatic Control Built-in
+                      SmarTech A5 pro Ultra Slim 18mm Automatic Control Built-in
                       WiFi Palm Vein Unlock Smart Door Lock with Display and
                       Digital Door Viewer
                     </a>
@@ -176,8 +176,8 @@ export default function AutomaticPushPullSmartLocks() {
                   <a href="../tenon-a9-pro-3d-face-recognition-built-in-wifi-palm-vein-unlock-smart-door-lock-with-display-and-digital-door-viewer/index.html">
                     <img
                       src="../../uploads/image/20241025/09/a9pro-1.webp"
-                      alt="Tenon A9 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock Smart Door Lock with Display And Digital Door Viewer"
-                      title="Tenon A9 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock Smart Door Lock with Display And Digital Door Viewer"
+                      alt="SmarTech A9 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock Smart Door Lock with Display And Digital Door Viewer"
+                      title="SmarTech A9 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock Smart Door Lock with Display And Digital Door Viewer"
                     />
                   </a>
                 </div>
@@ -185,7 +185,7 @@ export default function AutomaticPushPullSmartLocks() {
                   <div className="tel">A9 pro</div>
                   <h3 className="tels">
                     <a href="../tenon-a9-pro-3d-face-recognition-built-in-wifi-palm-vein-unlock-smart-door-lock-with-display-and-digital-door-viewer/index.html">
-                      Tenon A9 pro 3D Face Recognition Built-in WiFi Palm Vein
+                      SmarTech A9 pro 3D Face Recognition Built-in WiFi Palm Vein
                       Unlock Smart Door Lock with Display And Digital Door
                       Viewer
                     </a>
@@ -232,8 +232,8 @@ export default function AutomaticPushPullSmartLocks() {
                   <a href="../tenon-d7-pro-3d-face-recognition-built-in-wifi-palm-vein-unlock-smart-door-lock-with-display-and-digital-door-viewer/index.html">
                     <img
                       src="../../uploads/image/20241024/17/d7pro_1729763816.webp"
-                      alt="Tenon D7 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock Smart Door Lock with Display And Digital Door Viewer"
-                      title="Tenon D7 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock Smart Door Lock with Display And Digital Door Viewer"
+                      alt="SmarTech D7 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock Smart Door Lock with Display And Digital Door Viewer"
+                      title="SmarTech D7 pro 3D Face Recognition Built-in WiFi Palm Vein Unlock Smart Door Lock with Display And Digital Door Viewer"
                     />
                   </a>
                 </div>
@@ -241,7 +241,7 @@ export default function AutomaticPushPullSmartLocks() {
                   <div className="tel">D7 pro</div>
                   <h3 className="tels">
                     <a href="../tenon-d7-pro-3d-face-recognition-built-in-wifi-palm-vein-unlock-smart-door-lock-with-display-and-digital-door-viewer/index.html">
-                      Tenon D7 pro 3D Face Recognition Built-in WiFi Palm Vein
+                      SmarTech D7 pro 3D Face Recognition Built-in WiFi Palm Vein
                       Unlock Smart Door Lock with Display And Digital Door
                       Viewer
                     </a>
@@ -709,7 +709,7 @@ export default function AutomaticPushPullSmartLocks() {
             dirty and your fingerprint cannot be recognized, you can use the
             mobile phone APP to unlock. It is convenient for the elderly and
             children under special circumstances that the fingerprints are not
-            clear, and the encryption is safe. Introducing the Tenon push-pull
+            clear, and the encryption is safe. Introducing the SmarTech push-pull
             automatic digital door lock with a hidden RF semiconductor
             fingerprint head in the handle. We believe that smart life is the
             technology that supports the lifestyle we want, and it makes it
@@ -728,7 +728,7 @@ export default function AutomaticPushPullSmartLocks() {
     <div className="page_these">
       <div className="these_tel">
         <h2 className="page_order_tel">
-          These Smart Lock Videos May Help You Know More About Tenon Automatic
+          These Smart Lock Videos May Help You Know More About SmarTech Automatic
           Smart Digital Door Lock
         </h2>
         <div className="these_btn">
@@ -745,13 +745,13 @@ export default function AutomaticPushPullSmartLocks() {
             <div className="these_img">
               <img
                 src="../../uploads/image/20220330/17/smart-door-lock-push-pull.jpg"
-                alt="Tenon A7x & A2 Smart Lock Presentation At PSG Live Webinar"
-                title="Tenon A7x & A2 Smart Lock Presentation At PSG Live Webinar"
+                alt="SmarTech A7x & A2 Smart Lock Presentation At PSG Live Webinar"
+                title="SmarTech A7x & A2 Smart Lock Presentation At PSG Live Webinar"
               />
               <div className="iconfont"></div>
             </div>
             <div className="tel">
-              Tenon A7x &amp; A2 Smart Lock Presentation At PSG Live Webinar{" "}
+              SmarTech A7x &amp; A2 Smart Lock Presentation At PSG Live Webinar{" "}
             </div>
           </a>
           <a
@@ -777,12 +777,12 @@ export default function AutomaticPushPullSmartLocks() {
             <div className="these_img">
               <img
                 src="../../uploads/image/20220330/17/push-pull-digital-lock.jpg"
-                alt="Tenon A7x Face Recognition Smart Lock"
-                title="Tenon A7x Face Recognition Smart Lock"
+                alt="SmarTech A7x Face Recognition Smart Lock"
+                title="SmarTech A7x Face Recognition Smart Lock"
               />
               <div className="iconfont"></div>
             </div>
-            <div className="tel">Tenon A7x Face Recognition Smart Lock </div>
+            <div className="tel">SmarTech A7x Face Recognition Smart Lock </div>
           </a>
           <a
             href="https://www.youtube.com/embed/3SSaA__1GEk"
@@ -791,13 +791,13 @@ export default function AutomaticPushPullSmartLocks() {
             <div className="these_img">
               <img
                 src="../../uploads/image/20220330/17/push-pull-door-lock.jpg"
-                alt="Tenon A7x Smart Lock Registration Process"
-                title="Tenon A7x Smart Lock Registration Process"
+                alt="SmarTech A7x Smart Lock Registration Process"
+                title="SmarTech A7x Smart Lock Registration Process"
               />
               <div className="iconfont"></div>
             </div>
             <div className="tel">
-              Tenon A7x Smart Lock Registration Process{" "}
+              SmarTech A7x Smart Lock Registration Process{" "}
             </div>
           </a>
           <a
@@ -807,12 +807,12 @@ export default function AutomaticPushPullSmartLocks() {
             <div className="these_img">
               <img
                 src="../../uploads/image/20220330/17/push-pull-lock.jpg"
-                alt="Tenon A3 Smart Lock Installation Process"
-                title="Tenon A3 Smart Lock Installation Process"
+                alt="SmarTech A3 Smart Lock Installation Process"
+                title="SmarTech A3 Smart Lock Installation Process"
               />
               <div className="iconfont"></div>
             </div>
-            <div className="tel">Tenon A3 Smart Lock Installation Process </div>
+            <div className="tel">SmarTech A3 Smart Lock Installation Process </div>
           </a>
           <a
             href="https://www.youtube.com/embed/Yr2Fi-tUKr8"
@@ -821,13 +821,13 @@ export default function AutomaticPushPullSmartLocks() {
             <div className="these_img">
               <img
                 src="../../uploads/image/20220330/17/push-and-pull-door-lock.jpg"
-                alt="Tenon A2C Smart Lock Installation Procedures"
-                title="Tenon A2C Smart Lock Installation Procedures"
+                alt="SmarTech A2C Smart Lock Installation Procedures"
+                title="SmarTech A2C Smart Lock Installation Procedures"
               />
               <div className="iconfont"></div>
             </div>
             <div className="tel">
-              Tenon A2C Smart Lock Installation Procedures{" "}
+              SmarTech A2C Smart Lock Installation Procedures{" "}
             </div>
           </a>
           <a
@@ -837,13 +837,13 @@ export default function AutomaticPushPullSmartLocks() {
             <div className="these_img">
               <img
                 src="../../uploads/image/20220330/17/push-pull-fingerprint-door-lock.jpg"
-                alt="Tenon A2C&E5C Smart Lock Direction Changement (Mortise Lock&Handle)"
-                title="Tenon A2C&E5C Smart Lock Direction Changement (Mortise Lock&Handle)"
+                alt="SmarTech A2C&E5C Smart Lock Direction Changement (Mortise Lock&Handle)"
+                title="SmarTech A2C&E5C Smart Lock Direction Changement (Mortise Lock&Handle)"
               />
               <div className="iconfont"></div>
             </div>
             <div className="tel">
-              Tenon A2C&amp;E5C Smart Lock Direction Changement (Mortise
+              SmarTech A2C&amp;E5C Smart Lock Direction Changement (Mortise
               Lock&amp;Handle){" "}
             </div>
           </a>
@@ -854,13 +854,13 @@ export default function AutomaticPushPullSmartLocks() {
             <div className="these_img">
               <img
                 src="../../uploads/image/20220330/17/auto-lock-home-door.jpg"
-                alt="Tenon A2C Smart Lock Direction Changement (Mortise Lock)"
-                title="Tenon A2C Smart Lock Direction Changement (Mortise Lock)"
+                alt="SmarTech A2C Smart Lock Direction Changement (Mortise Lock)"
+                title="SmarTech A2C Smart Lock Direction Changement (Mortise Lock)"
               />
               <div className="iconfont"></div>
             </div>
             <div className="tel">
-              Tenon A2C Smart Lock Direction Changement (Mortise Lock){" "}
+              SmarTech A2C Smart Lock Direction Changement (Mortise Lock){" "}
             </div>
           </a>
         </div>
@@ -1013,23 +1013,23 @@ export default function AutomaticPushPullSmartLocks() {
     <div className="reach_main">
       <img
         src="../../uploads/image/20220403/17/tenon-smart-door-locks.jpg"
-        alt="RELIABLE TENON SMART LOCKS FOR BUSINESSES"
-        title="RELIABLE TENON SMART LOCKS FOR BUSINESSES"
+        alt="RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES"
+        title="RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES"
       />
       <div className="layout">
         <div className="reach_cont">
           <div className="reach_cont_tel page_order_tel">
-            RELIABLE TENON SMART LOCKS FOR BUSINESSES
+            RELIABLE SMARTECH SMART LOCKS FOR BUSINESSES
           </div>
           <div className="reach_cont_tex">
             <p>
-              Tenon put eyes on a world vision and devote ourselves to expanding
+              SmarTech put eyes on a world vision and devote ourselves to expanding
               the business into global.
             </p>
             <p>
               Reach out to us by{" "}
-              <a href="mailto:info@aptenontech.com" target="_self">
-                info@aptenontech.com
+              <a href="mailto:info@smartechlock.com" target="_self">
+                info@smartechlock.com
               </a>{" "}
               for further details.
             </p>{" "}
@@ -1049,9 +1049,9 @@ export default function AutomaticPushPullSmartLocks() {
       <div className="layout">
         <div className="page_order_tel">What's New</div>
         <div className="tex">
-          Tenon smart lock enables door locks with fingerprint access. Even if
+          SmarTech smart lock enables door locks with fingerprint access. Even if
           you are away, you can control and monitor the house. Upgrade your door
-          lock with the all-new Tenon smart locks. Automatically lock or unlock
+          lock with the all-new SmarTech smart locks. Automatically lock or unlock
           the door in one step, and check the activity record through the remote
           control.{" "}
         </div>
@@ -1068,7 +1068,7 @@ export default function AutomaticPushPullSmartLocks() {
               href="../../blog/index.html"
               className="index_news_titles  tex_a"
             >
-              TENON SMART LOCK NEWS CENTER
+              SMARTECH SMART LOCK NEWS CENTER
             </a>
             <div className="news_more">
               <a href="../../blog/index.html" className="index_news_more">
@@ -1086,7 +1086,7 @@ export default function AutomaticPushPullSmartLocks() {
                         <div className="news_day">Nov</div>
                         <div className="news_year">15-2024</div>
                         <p>
-                          Tenon appeared at the 136th Canton Fair to show the
+                          SmarTech appeared at the 136th Canton Fair to show the
                           world the new smart door &amp; lock
                         </p>
                       </figure>
@@ -1100,8 +1100,8 @@ export default function AutomaticPushPullSmartLocks() {
                           <img
                             className="blog-img"
                             src="../../uploads/image/20241115/16/tenon-appeared-at-the-136th-canton-fair-to-show-the-world-the-new-smart-door-lock.webp"
-                            alt="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
-                            title="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                            alt="SmarTech appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                            title="SmarTech appeared at the 136th Canton Fair to show the world the new smart door & lock"
                           />
                         </a>
                       </span>
@@ -1203,7 +1203,7 @@ export default function AutomaticPushPullSmartLocks() {
             encType="multipart/form-data"
             data-plugin="validator"
             method="post"
-            action="https://www.aptenontech.com/submission-successful.html"
+            action="https://www.smartechlock.com/submission-successful.html"
           >
             <input
               type="hidden"

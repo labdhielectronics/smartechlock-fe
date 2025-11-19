@@ -5,7 +5,7 @@ export default function IndexChoose() {
   <div className="index_choose_main">
     <figure>
       <span>What</span>
-      <div className="tex_a">does Tenon bring you?</div>
+      <div className="tex_a">does SmarTech bring you?</div>
     </figure>
     <ul>
       <li>
@@ -14,7 +14,7 @@ export default function IndexChoose() {
           <div className="li_text">
             <p>
               From product design and production to sales and installation
-              services, TENON's professional team is here to support you.
+              services, SMARTECH's professional team is here to support you.
             </p>
           </div>
         </div>
@@ -25,7 +25,7 @@ export default function IndexChoose() {
           <div className="li_text">
             <p>
               With independent research and development design and flexible
-              customized production, TENON can meet a wide range of customized
+              customized production, SMARTECH can meet a wide range of customized
               needs.
             </p>
           </div>
@@ -37,7 +37,7 @@ export default function IndexChoose() {
           <div className="li_text">
             <p>
               With international smart production workshops and self-inspection
-              laboratories, TENON consistently pursues higher quality across all
+              laboratories, SMARTECH consistently pursues higher quality across all
               company departments.
             </p>
           </div>
@@ -49,7 +49,7 @@ export default function IndexChoose() {
           <div className="li_text">
             <p>
               As a well-known Chinese brand with multiple honors and
-              certifications, TENON adheres to the goal of becoming a
+              certifications, SMARTECH adheres to the goal of becoming a
               century-old enterprise, making it a trustworthy choice.
             </p>
           </div>

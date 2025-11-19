@@ -10,7 +10,7 @@ export default function ContactUs() {
         </figure>
         <div className="figcaptiona">
           <p className="adder_tel">
-            Guangdong AP Tenon Sci.&amp; Tech. Co., Ltd.
+            Guangdong AP Smartech Sci.&amp; Tech. Co., Ltd.
           </p>
           <ul>
             <li>
@@ -27,7 +27,7 @@ export default function ContactUs() {
             </li>
             <li>
               <div className="iconfont"></div>
-              <a href="mailto:info@aptenontech.com">info@aptenontech.com</a>
+              <a href="mailto:info@smartechlock.com">info@smartechlock.com</a>
             </li>
             <li>
               <div className="iconfont"></div>

@@ -6,7 +6,7 @@ export default function IndexVideo() {
     <div className="index_video_main ">
       <div className="index_video_cont">
         <div className="video_cont_list">
-          <div className="video_cont_tel tex_a">TENON SMART LOCK</div>
+          <div className="video_cont_tel tex_a">SMARTECH LOCK</div>
           <div className="video_cont_tex">
             Make your lifes more intelligent.
           </div>
@@ -27,8 +27,8 @@ export default function IndexVideo() {
         >
           <img
             src="/uploads/image/20220314/11/tenon-smart-lock.jpg"
-            alt="TENON SMART LOCK"
-            title="TENON SMART LOCK"
+            alt="SMARTECH LOCK"
+            title="SMARTECH LOCK"
           />
           <div className="iconfont"></div>
         </a>

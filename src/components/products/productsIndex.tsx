@@ -524,7 +524,7 @@ export default function ProductsIndex() {
             />
             <div className="icon">
               <img
-                src="../uploads/image/20220331/09/tenon-smart-lock.png"
+                src="../uploads/image/20220331/09/smartechlock.png"
                 alt="Guangdong AP Tenon Sci.& Tech. Co., Ltd."
                 title="Guangdong AP Tenon Sci.& Tech. Co., Ltd."
               />

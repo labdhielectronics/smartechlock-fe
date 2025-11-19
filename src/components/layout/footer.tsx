@@ -13,9 +13,9 @@ function Footer() {
         <figure>
           <a href="index.html">
             <img
-              src="uploads/image/20220331/09/tenon-smart-lock.png"
-              alt="Guangdong AP Tenon Sci.& Tech. Co., Ltd."
-              title="Guangdong AP Tenon Sci.& Tech. Co., Ltd."
+              src="uploads/image/20220331/09/smartechlock.png"
+              alt="Guangdong AP SmarTech Sci.& Tech. Co., Ltd."
+              title="Guangdong AP SmarTech Sci.& Tech. Co., Ltd."
               width={151}
               height={31}
             />
@@ -201,8 +201,8 @@ function Footer() {
               <div className="iconfont"></div>
               <div className="list_cont">
                 <p className="tel">E-mail:</p>
-                <a href="mailto:info@aptenontech.com" className="tex">
-                  info@aptenontech.com
+                <a href="mailto:info@smartechlock.com" className="tex">
+                  info@smartechlock.com
                 </a>
               </div>
             </div>
@@ -228,7 +228,7 @@ function Footer() {
       </div>
       <div className="boxs_tex">
         © Copyright - 2010-2019 :{" "}
-        <a href="index.html">Guangdong AP Tenon Sci.&amp; Tech. Co., Ltd.</a>{" "}
+        <a href="index.html">Guangdong AP SmarTech Sci.&amp; Tech. Co., Ltd.</a>{" "}
         All Rights Reserved{" "}
         <div>
           <a href="sitemap.html">Sitemap</a>
@@ -265,7 +265,7 @@ function Footer() {
             encType="multipart/form-data"
             data-plugin="validator"
             method="post"
-            action="https://www.aptenontech.com/submission-successful.html"
+            action="https://www.smartechlock.com/submission-successful.html"
           >
             <input
               type="hidden"
@@ -352,7 +352,7 @@ function Footer() {
         </a>
       </li>
       <li className="hide">
-        <a href="mailto:info@aptenontech.com" title="E-mail" rel="nofollow">
+        <a href="mailto:info@smartechlock.com" title="E-mail" rel="nofollow">
           <i className="fa fa-envelope-o color_blue" />
         </a>
       </li>

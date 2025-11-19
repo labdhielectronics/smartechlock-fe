@@ -6,7 +6,7 @@ export default function SectionThree() {
    <div className="body_tenon body_cont">
   <div className="body_cont_tel">
     <a href="smart-lock-solutions/index.html" className="tex_a">
-      TENON DIGITAL SMART DOOR LOCK CAN BE USED WIDELY IN THESE SPACES{" "}
+      SMARTECH DIGITAL SMART DOOR LOCK CAN BE USED WIDELY IN THESE SPACES{" "}
     </a>
     <p className="">
       We aim to create a place where you feel safe, especially when it's time to

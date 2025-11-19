@@ -28,24 +28,24 @@ export default function CompanyProfile() {
     <div className="banner_img">
       <img
         src="../uploads/image/20220321/14/smart-door-lock-pro_1647844659.jpg"
-        alt="About Tenon Smart Lock"
-        title="About Tenon Smart Lock"
+        alt="About SmarTech Lock"
+        title="About SmarTech Lock"
       />
     </div>
   </div>
   <div className="sing_index ">
     <div className="sing_about layout">
-      <h1 className="page_order_tel">About Tenon Smart Lock</h1>
+      <h1 className="page_order_tel">About Smartech Lock</h1>
       <div className="tex">
         <p>
-          TENON is a leading brand of product and service solution providers in
-          the field of smart locks in China. In addition, Tenon is a
+          SMARTECH is a leading brand of product and service solution providers in
+          the field of smart locks in China. In addition, Smartech is a
           professional technology development company that integrates scientific
           research, design, manufacturing, and marketing in the field of smart
-          homes. Tenon has first-class research centers and laboratories for
-          high-standard system research and quality control. Meanwhile, Tenon's
+          homes. Smartech has first-class research centers and laboratories for
+          high-standard system research and quality control. Meanwhile, Smartech's
           modern smart lock production base has a high-standard dust-free
-          workshop with 4 SMT production lines. In product production, Tenon has
+          workshop with 4 SMT production lines. In product production, Smartech has
           studied various doors and usage scenarios to adapt to the needs of
           more scenarios, thereby providing a variety of smart locks, which can
           be selected in various scenarios such as real estate projects,
@@ -55,11 +55,11 @@ export default function CompanyProfile() {
           <br />
         </p>
         <p>
-          Tenon is a national new high-tech &amp; professional technical
+          Smartech is a national new high-tech &amp; professional technical
           enterprise in China, rewarded as top 3 of the "Chinese Top10 Smart
           Lock Brand", incorporated into the Chinese strategic new industrial
           composite index components, selected into the "2015 NEEQ value
-          list".Tenon acquired many awards such as " The Most Growth Potential
+          list".Smartech acquired many awards such as " The Most Growth Potential
           NEEQ Enterprise", " 2016 Deloitte-Guangzhou New High-tech &amp;
           High-growth Top20 Enterprise", "2018 Chinese Real Estate Smart Lock
           Powerful Purchasing Brand", "Leading Brand of the 2019 Sunflower Award
@@ -68,7 +68,7 @@ export default function CompanyProfile() {
         </p>
         <p>
           Leading the way in the enterprise-scale of China's smart lock
-          industry, Tenon has a modern smart home product manufacturing base,
+          industry, Smartech has a modern smart home product manufacturing base,
           equipped with multiple YAMAHA SMT product lines, modern automatic
           dust-free workshops, and a million-grade professional laboratory. The
           complete organizational structure is integrated with the chairman's
@@ -81,10 +81,10 @@ export default function CompanyProfile() {
           <br />
         </p>
         <p>
-          After years of hard work, Tenon logged into the capital NEEQ market
+          After years of hard work, Smartech logged into the capital NEEQ market
           in2015. The number of shares in the NEEQ market in 2015 was 833559. It
           is a listed company on the capital NEEQ market and has always
-          maintained a leading position in innovation. It is Tenon's goal of a
+          maintained a leading position in innovation. It is Smartech's goal of a
           recent marketing strategy to stepping into the excellent brand of the
           global smart lock industry and building up the global smart home
           platform.
@@ -92,7 +92,7 @@ export default function CompanyProfile() {
       </div>
     </div>
     <div className="history_main ">
-      <h2 className="page_order_tel">Tenon Smart Lock Brand History</h2>
+      <h2 className="page_order_tel">Smartech Lock Brand History</h2>
       <div className="history_btn">
         <div className="history_prev iconfont"></div>
         <div className="history_next iconfont"></div>
@@ -104,7 +104,7 @@ export default function CompanyProfile() {
               <div className="title">2011 </div>
               <div className="text">
                 <p>
-                  Tenon Smart Lock established / Guangdong AP Tenon Sci. &amp;
+                  Smartech Lock established / Guangdong AP Smartech Sci. &amp;
                   Tech. Co., Ltd. was established
                 </p>{" "}
               </div>
@@ -116,9 +116,9 @@ export default function CompanyProfile() {
               <div className="text">
                 <p>
                   New high-tech enterprise with the tile of the "Guangdong
-                  province observe contract and value credit enterprise" Tenon
+                  province observe contract and value credit enterprise" Smartech
                   smart lock was rewarded as the "National Quality Assurance
-                  Advanced Enterprise" Tenon smart lock was rewarded as the
+                  Advanced Enterprise" Smartech smart lock was rewarded as the
                   “National New High-tech Enterprise”
                 </p>
                 <p>
@@ -137,7 +137,7 @@ export default function CompanyProfile() {
                 >
                   <li>
                     <p>
-                      Tenon smart lock was rewarded as the "Outstanding
+                      Smartech lock was rewarded as the "Outstanding
                       Enterprise of Technology Innovative Venture Contest" of
                       the third national innovative venture contest (Guangdong
                       competition area) and the second quarter of the "Zhujiang
@@ -146,7 +146,7 @@ export default function CompanyProfile() {
                   </li>
                   <li>
                     <p>
-                      Tenon smart lock was rewarded as the title of "Top 10
+                      Smartech lock was rewarded as the title of "Top 10
                       Smart Lock Brand" in the China intelligent community brand
                       event of the smart home industry.
                     </p>
@@ -178,7 +178,7 @@ export default function CompanyProfile() {
                   </li>
                   <li>
                     <p>
-                      Tenon, the first Listed Company (Stock Code 833559) in the
+                      Smartech, the first Listed Company (Stock Code 833559) in the
                       smart lock industry.
                     </p>
                   </li>
@@ -210,7 +210,7 @@ export default function CompanyProfile() {
                   <li>
                     <p>
                       Rewarded as "The Most Growth Potential NEEQ Enterprise",
-                      Tenon smart lock logged into the capital NEEQ market.
+                      Smartech lock logged into the capital NEEQ market.
                     </p>
                   </li>
                   <li>
@@ -331,7 +331,7 @@ export default function CompanyProfile() {
                   </li>
                   <li>
                     <p>
-                      Tenon's Chairman was awarded Excellent entrepreneur in the
+                      Smartech's Chairman was awarded Excellent entrepreneur in the
                       NEEQ market"
                     </p>
                   </li>
@@ -343,7 +343,7 @@ export default function CompanyProfile() {
                   </li>
                   <li>
                     <p>
-                      Tenon smart lock was selected into the NEEQ innovative
+                      Smartech lock was selected into the NEEQ innovative
                       level enterprise for 4 years in a row
                     </p>
                   </li>
@@ -352,7 +352,7 @@ export default function CompanyProfile() {
                   </li>
                   <li>
                     <p>
-                      Tenon's Chairman was awarded "Excellent entrepreneur in
+                      Smartech's Chairman was awarded "Excellent entrepreneur in
                       the NEEQ market"
                     </p>
                   </li>
@@ -364,7 +364,7 @@ export default function CompanyProfile() {
                   </li>
                   <li>
                     <p>
-                      Tenon Smart Lock has been selected as a NEEQ innovative
+                      Smartech Lock has been selected as a NEEQ innovative
                       enterprise for 4 consecutive years
                     </p>
                   </li>
@@ -406,7 +406,7 @@ export default function CompanyProfile() {
       </div>
     </div>
     <div className="true_main">
-      <h2 className="page_order_tel">True View of Tenon Smart Locks</h2>
+      <h2 className="page_order_tel">True View of Smartech Locks</h2>
       <div className="true_item layout">
         <div className="item_list">
           <div className="list_img">
@@ -419,7 +419,7 @@ export default function CompanyProfile() {
           <div className="tel">Showroom </div>
           <div className="tex">
             <p>
-              The Tenon exhibition hall is located on the first floor of the
+              The Smartech exhibition hall is located on the first floor of the
               headquarters factory. It is a multifunctional exhibition hall
               integrating product display, experience, and sales. It is mainly
               divided into fingerprint lock display area, drying rack display
@@ -438,7 +438,7 @@ export default function CompanyProfile() {
           <div className="tel">Factory </div>
           <div className="tex">
             <p>
-              Covering an area of 15000 square meters, TENON’s factory is a
+              Covering an area of 15000 square meters, SMARTECH’s factory is a
               professional engaged in the production of smart home products. The
               daily output of fingerprint locks is 1,200 sets and the annual
               output is 600,000 sets, which can fully meet the needs of
@@ -469,7 +469,7 @@ export default function CompanyProfile() {
     <div className="superior_main">
       <div className="layout">
         <h2 className="page_order_tel">
-          Superior Strength of Tenon Smart Locks
+          Superior Strength of Smartech Locks
         </h2>
         <div className="superior_item ">
           <div className="item_list">
@@ -512,7 +512,7 @@ export default function CompanyProfile() {
             <div className="list_tel">INNOVATIVE TECHNOLOGY </div>
             <div className="list_tex">
               <p>
-                TENON PROVIDES INSIGHT INTO THE FUTURE WITH INNOVATIVE
+                SMARTECH PROVIDES INSIGHT INTO THE FUTURE WITH INNOVATIVE
                 TECHNOLOGY AND CONTINUES TO SURPASS.
               </p>{" "}
             </div>
@@ -557,7 +557,7 @@ export default function CompanyProfile() {
             <div className="list_tel">AESTHETIC TENDENCY </div>
             <div className="list_tex">
               <p>
-                THE CORE VALUES OF TENON IS TO CREATE THE COMPACT DESIGN
+                THE CORE VALUES OF SMARTECH IS TO CREATE THE COMPACT DESIGN
                 PRODUCTS.
               </p>{" "}
             </div>
@@ -567,11 +567,11 @@ export default function CompanyProfile() {
     </div>
     <div className="awards_main">
       <div className="layout">
-        <h2 className="page_order_tel">Certification of Tenon Smart Locks</h2>
+        <h2 className="page_order_tel">Certification of Smartech Locks</h2>
         <img
           src="../uploads/image/20230427/10/certificate.webp"
-          alt="Certification of Tenon Smart Locks"
-          title="Certification of Tenon Smart Locks"
+          alt="Certification of Smartech Locks"
+          title="Certification of Smartech Locks"
           className="img"
         />
         <div className="awards_item">
@@ -614,7 +614,7 @@ export default function CompanyProfile() {
       <div className="index_news_items">
         <div className="index_news_text">
           <a href="../blog/index.html" className="index_news_titles  tex_a">
-            TENON SMART LOCK NEWS CENTER
+            SMARTECH LOCK NEWS CENTER
           </a>
           <div className="news_more">
             <a href="../blog/index.html" className="index_news_more">
@@ -632,7 +632,7 @@ export default function CompanyProfile() {
                       <div className="news_day">Nov</div>
                       <div className="news_year">15-2024</div>
                       <p>
-                        Tenon appeared at the 136th Canton Fair to show the
+                        Smartech appeared at the 136th Canton Fair to show the
                         world the new smart door &amp; lock
                       </p>
                     </figure>
@@ -646,8 +646,8 @@ export default function CompanyProfile() {
                         <img
                           className="blog-img"
                           src="../uploads/image/20241115/16/tenon-appeared-at-the-136th-canton-fair-to-show-the-world-the-new-smart-door-lock.webp"
-                          alt="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
-                          title="Tenon appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                          alt="Smartech appeared at the 136th Canton Fair to show the world the new smart door & lock"
+                          title="Smartech appeared at the 136th Canton Fair to show the world the new smart door & lock"
                         />
                       </a>
                     </span>

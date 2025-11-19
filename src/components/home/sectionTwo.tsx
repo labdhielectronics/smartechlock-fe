@@ -4,7 +4,7 @@ export default function SectionTwo() {
   return (
    <div className="body_tow">
   <a href="products/index.html" className="tex_a">
-    WHOLESALE DIGITAL SMART LOCK RECOMMENDATION OF TENON{" "}
+    WHOLESALE DIGITAL SMART LOCK RECOMMENDATION OF SMARTECH
   </a>
   <div className="news_gallery">
     <div className="swiper-wrapper">
@@ -69,7 +69,7 @@ export default function SectionTwo() {
           >
             <p>
               BY USING A SMARTPHONE, YOU CAN EASILY CONNECT YOUR HOME, AND START
-              A NEW SMART HOME EXPERIENCE WITH A TENON SMART LOCKS WHOLESALE.
+              A NEW SMART HOME EXPERIENCE WITH A SMARTECH LOCKS WHOLESALE.
             </p>
           </a>
         </div>
